@@ -103,7 +103,7 @@ Dynamic density forecasting using machine learning (with L.Hanus)
 
 <br/>
 
-Horizon-specific risks, higher moments, and asset prices (with J.Kurka) [slides soon]
+Horizon-specific risks, higher moments, and asset prices (with J.Kurka)
 
 <br/>
 
