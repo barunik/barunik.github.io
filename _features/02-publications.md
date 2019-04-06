@@ -24,13 +24,15 @@ code and package <a href="https://github.com/barunik/DistributionalForecasts.jl"
 
  [Quantile Coherency: A General Measure for Dependence between Cyclical Economic Variables](https://ideas.repec.org/p/arx/papers/1510.06946.html){:target="blank"} (with T.Kley)<br/>
 **The Econometrics Journal** (2019) forthcoming, <a href="https://doi.org/10.1093/ectj/utz002" target="blank"><i class="ai ai-doi ai"></i></a><br/>
-code and package <a href="https://github.com/barunik/quantspec" target="blank"><i class="fas fa-keyboard"></i></a>
+code and package <a href="https://github.com/barunik/quantile_coherency_replication" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+Supplementary material [available](assets/files/20181130_quantile_cross_EctJ_supp.pdf){:target="blank"}
 
 <br/>
 
 [Measuring the Frequency Dynamics of Financial Connectedness and Systemic Risk](https://ideas.repec.org/p/arx/papers/1507.01729.html){:target="blank"} (with T.Krehlik)<br/>
 **Journal of Financial Econometrics** (2018), 16 (2), pp. 271–296, <a href="https://doi.org/10.1093/jjfinec/nby001" target="blank"><i class="ai ai-doi ai"></i></a><br/>
-code and package <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a>
+code and package <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+Supplementary material [available](assets/files/2018_JFEC_Krehlik_suppl.pdf){:target="blank"}
 
 <br/>
 
@@ -78,7 +80,8 @@ Note the package *frequencyConnectedness* available here can be used to replicat
 <br/>
 
 [Semiparametric Conditional Quantile Models for Financial Returns and Realized Volatility](https://ideas.repec.org/p/zbw/fmpwps/20.html){:target="blank"} (with F.Zikes)<br/>
-**Journal of Financial Econometrics** (2016), 14 (1), 185–226, <a href="https://doi.org/10.1093/jjfinec/nbu029" target="blank"><i class="ai ai-doi ai"></i></a>
+**Journal of Financial Econometrics** (2016), 14 (1), 185–226, <a href="https://doi.org/10.1093/jjfinec/nbu029" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+Supplementary material [available](assets/files/2016_JFEC_Zikes_ONLINE_APPENDIX.pdf){:target="blank"}
 
 <br/>
 
