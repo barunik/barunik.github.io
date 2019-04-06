@@ -43,7 +43,8 @@ Supplementary material [available](assets/files/2018_JFEC_Krehlik_suppl.pdf){:ta
 
 
 [Modeling and Forecasting Persistent Financial Durations](http://ideas.repec.org/p/arx/papers/1208.3087.html){:target="blank"} (with F.Zikes and N.Shenai)<br/>
-**Econometric Reviews** (2017), 36:10, 1081-1110, <a href="https://doi.org/10.1080/07474938.2014.977057" target="blank"><i class="ai ai-doi ai"></i></a>
+**Econometric Reviews** (2017), 36:10, 1081-1110, <a href="https://doi.org/10.1080/07474938.2014.977057" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+Supplementary material [available](assets/files/msmd_appendix_er_2.pdf){:target="blank"}
 
 <br/>
 
@@ -61,7 +62,7 @@ code for replication <a href="https://github.com/barunik/sam2N" target="blank"><
 [Cyclical properties of supply-side and demand-side shocks in oil-based commodity markets](https://ideas.repec.org/p/arx/papers/1603.07020.html){:target="blank"} (with T.Krehlik)<br/>
 **Energy Economics** (2017), 65, pp.208-218, <a href="https://doi.org/10.1016/j.eneco.2017.05.003" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 code and package <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a>
-
+codes for bootstrap <a href="https://github.com/tomaskrehlik/SpillPap" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
 
@@ -92,7 +93,8 @@ Supplementary material [available](assets/files/2016_JFEC_Zikes_ONLINE_APPENDIX.
 
 
 [Modeling and forecasting exchange rate volatility in time-frequency domain](http://ideas.repec.org/p/arx/papers/1204.1452.html){:target="blank"} (with T.Krehlik and L.Vacha)<br/>
-**European Journal of Operational Research** (2016), 251 (1), pp. 329–340, <a href="https://doi.org/10.1016/j.ejor.2015.12.010" target="blank"><i class="ai ai-doi ai"></i></a>
+**European Journal of Operational Research** (2016), 251 (1), pp. 329–340, <a href="https://doi.org/10.1016/j.ejor.2015.12.010" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+codes to paper <a href="assets/files/Codes_to_Paper.zip" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
 
