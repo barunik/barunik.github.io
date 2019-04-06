@@ -14,7 +14,7 @@ Jozef's work has appeared in the *Econometrics Journal*, *Journal of Financial E
 
 <br/>
 
-<a href="http://ies.fsv.cuni.cz/default/file/download/id/32471" target="blank">
+<a href="https://www.utia.cas.cz/files/Barunik_cv_2019.pdf" target="blank">
   <i class="ai ai-cv-square ai-2x"></i></a>
 <a href="https://scholar.google.cz/citations?user=XDtEei4AAAAJ&hl=en" target="blank">
   <i class="ai ai-google-scholar-square ai-2x"></i></a>

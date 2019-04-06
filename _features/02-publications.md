@@ -4,7 +4,13 @@ name: Research
 heading: Selected (Recent) Publications
 ---
 
-*(Note: documents made available for personal study/use only)*
+<!--- USAGE: JUST FILL AND ADD THIS
+
+[NAZEV](LINK){:target="blank"} (with COAUTHORS)<br/>
+**JOURNALNAME** (YEAR), CITATION, <a href="LINKDOI" target="blank"><i class="ai ai-doi ai"></i></a>
+code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></i></a>
+<br/>
+-->
 
 
 <br/>
@@ -39,15 +45,35 @@ code and package <a href="https://github.com/barunik/frequencyConnectedness" tar
 
 <br/>
 
-
 [Estimation of financial agent-based models with simulated maximum likelihood](https://ideas.repec.org/p/fau/wpaper/wp2016_07.html){:target="blank"} (with J.Kukacka)<br/>
 **Journal of Economic Dynamics and Control** (2017), 85, pp. 21-45, <a href="https://doi.org/10.1016/j.jedc.2017.09.006" target="blank"><i class="ai ai-doi ai"></i></a>
 
 <br/>
 
+[Asymmetric volatility connectedness on forex markets](https://ideas.repec.org/p/arx/papers/1607.08214.html){:target="blank"} (with E. Kocenda and L.Vacha)<br/>
+**Journal of International Money and Finance** (2017), 77C, pp. 39-56, <a href="https://doi.org/10.1016/j.jimonfin.2017.06.003" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+code for replication <a href="https://github.com/barunik/sam2N" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
-[Asymmetric connectedness of stocks: How does bad and good volatility spill over the U.S. stock market?](https://ideas.repec.org/p/arx/papers/1308.1221.html){:target="blank"} (with E. Kocenda and L.Vacha)<br/>
-**Journal of Financial Markets** (2016), 27, 55–78, <a href="https://doi.org/10.1016/j.finmar.2015.09.003" target="blank"><i class="ai ai-doi ai"></i></a>
+<br/>
+
+[Cyclical properties of supply-side and demand-side shocks in oil-based commodity markets](https://ideas.repec.org/p/arx/papers/1603.07020.html){:target="blank"} (with T.Krehlik)<br/>
+**Energy Economics** (2017), 65, pp.208-218, <a href="https://doi.org/10.1016/j.eneco.2017.05.003" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+code and package <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a>
+
+
+<br/>
+
+[Good volatility, bad volatility: Which drives the asymmetric connectedness of Australian electricity markets?](https://ideas.repec.org/a/eee/eneeco/v66y2017icp108-115.html){:target="blank"} (with N. Apergis and M.Lau)<br/>
+**Energy Economics** (2017), 66, pp.108- 115, <a href="https://doi.org/10.1016/j.eneco.2017.06.010" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+codes for introduced measures <a href="https://github.com/barunik/sam" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+Note the package *frequencyConnectedness* available here can be used to replicate the paper <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a>
+
+<br/>
+
+[Asymmetric connectedness on the U.S. stock market: Bad and good volatility spillovers](https://ideas.repec.org/p/arx/papers/1308.1221.html){:target="blank"} (with E. Kocenda and L.Vacha)<br/>
+**Journal of Financial Markets** (2016), 27, 55–78, <a href="https://doi.org/10.1016/j.finmar.2015.09.003" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+codes for introduced measures <a href="https://github.com/barunik/sam" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+Note the package *frequencyConnectedness* available here can be used to replicate the paper <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
 
@@ -55,6 +81,56 @@ code and package <a href="https://github.com/barunik/frequencyConnectedness" tar
 **Journal of Financial Econometrics** (2016), 14 (1), 185–226, <a href="https://doi.org/10.1093/jjfinec/nbu029" target="blank"><i class="ai ai-doi ai"></i></a>
 
 <br/>
+
+[Forecasting the term structure of crude oil futures prices with neural networks](https://ideas.repec.org/p/arx/papers/1504.04819.html){:target="blank"} (with B.Malinska)<br/>
+**Applied Energy** (2016), 164, pp.366–379, <a href="https://doi.org/10.1016/j.apenergy.2015.11.051" target="blank"><i class="ai ai-doi ai"></i></a>
+
+<br/>
+
+
+[Modeling and forecasting exchange rate volatility in time-frequency domain](http://ideas.repec.org/p/arx/papers/1204.1452.html){:target="blank"} (with T.Krehlik and L.Vacha)<br/>
+**European Journal of Operational Research** (2016), 251 (1), pp. 329–340, <a href="https://doi.org/10.1016/j.ejor.2015.12.010" target="blank"><i class="ai ai-doi ai"></i></a>
+
+<br/>
+
+[Volatility spillovers across petroleum markets](https://ideas.repec.org/p/wdi/papers/2015-1093.html){:target="blank"} (with E. Kocenda and L.Vacha)<br/>
+**The Energy Journal** (2015), 36(3), 309-329<br/>
+codes for introduced measures <a href="https://github.com/barunik/sam" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+Note the package *frequencyConnectedness* available here can be used to replicate the paper <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a>
+
+
+<br/>
+
+[Are benefits from oil - stocks diversification gone? A new evidence from a dynamic copulas and high frequency data](http://www.sciencedirect.com/science/article/pii/S014098831500170X){:target="blank"} (with K.Avdulaj)<br/>
+**Energy Economics** (2015), 51, pp. 31-44, <a href="https://doi.org/10.1016/j.eneco.2015.05.018" target="blank"><i class="ai ai-doi ai"></i></a>
+
+<br/>
+
+[Realizing stock market crashes: stochastic cusp catastrophe model of returns under time-varying volatility](https://ideas.repec.org/p/zbw/fmpwps/15.html){:target="blank"} (with J.Kukacka)<br/>
+**Quantitative Finance** (2015), 15 (8), pp. 1347-1364, <a href="https://doi.org/10.1080/14697688.2014.950319" target="blank"><i class="ai ai-doi ai"></i></a>
+
+<br/>
+
+[Realized wavelet-based estimation of integrated variance and jumps in the presence of noise](https://ideas.repec.org/p/arx/papers/1202.1854.html){:target="blank"} (with L.Vacha)<br/>
+**Quantitative Finance** (2015), 15 (6), pp. 959-973, <a href="https://doi.org/10.1080/14697688.2015.1032550" target="blank"><i class="ai ai-doi ai"></i></a>
+
+<br/>
+
+[Are Bayesian Fan Charts Useful? The Eﬀect of Zero Lower Bound and Evaluation of Financial Stability Stress Tests](https://ideas.repec.org/p/cnb/wpaper/2011-10.html){:target="blank"} (with M.Franta, R.Horvath,K.Smidkova)<br/>
+**International Journal of Central Banking** (2014), 10(1), 159-187
+
+<br/>
+
+[Comovement of energy commodities revisited: Evidence from wavelet coherence analysis](https://ideas.repec.org/p/arx/papers/1201.4776.html){:target="blank"} (with L.Vacha)<br/>
+**Energy Economics** (2012), 34(1), pp. 241–247, <a href="https://doi.org/10.1016/j.eneco.2011.10.007" target="blank"><i class="ai ai-doi ai"></i></a>
+
+<br/>
+
+[Can a stochastic cusp catastrophe model explain stock market crashes?](https://ideas.repec.org/a/eee/dyncon/v33y2009i10p1824-1836.html){:target="blank"} (with M.Vosvrda)<br/>
+**Journal of Economic Dynamics and Control** (2012), 33(10), 1824-1836 <a href="https://doi.org/10.1016/j.jedc.2009.04.004" target="blank"><i class="ai ai-doi ai"></i></a>
+
+<br/>
+
 
 Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publication/user/id/215/lang/en){:target="blank"}
 
