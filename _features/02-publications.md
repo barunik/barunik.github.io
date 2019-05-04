@@ -37,7 +37,8 @@ Supplementary material [available](assets/files/2018_JFEC_Krehlik_suppl.pdf){:ta
 <br/>
 
 [Do co-jumps impact correlations in currency markets?](https://ideas.repec.org/p/arx/papers/1602.05489.html){:target="blank"} (with L.Vacha)<br/>
-**Journal of Financial Markets** (2018), 37, pp.97-119, <a href="https://doi.org/10.1016/j.finmar.2017.11.004" target="blank"><i class="ai ai-doi ai"></i></a>
+**Journal of Financial Markets** (2018), 37, pp.97-119, <a href="https://doi.org/10.1016/j.finmar.2017.11.004" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+codes for introduced measures <a href="https://github.com/FiserPavel/waveletcojumps" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
 <br/>
 
@@ -117,7 +118,8 @@ Note the package *frequencyConnectedness* available here can be used to replicat
 <br/>
 
 [Realized wavelet-based estimation of integrated variance and jumps in the presence of noise](https://ideas.repec.org/p/arx/papers/1202.1854.html){:target="blank"} (with L.Vacha)<br/>
-**Quantitative Finance** (2015), 15 (6), pp. 959-973, <a href="https://doi.org/10.1080/14697688.2015.1032550" target="blank"><i class="ai ai-doi ai"></i></a>
+**Quantitative Finance** (2015), 15 (6), pp. 959-973, <a href="https://doi.org/10.1080/14697688.2015.1032550" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+codes for introduced measures <a href="https://github.com/FiserPavel/waveletcojumps" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
 <br/>
 
@@ -163,6 +165,19 @@ Submitted (2019)<br/>
 Submitted (2019)<br/>
 
 **Abstract**: This paper investigates how to measure common market risk factors using newly proposed Panel Quantile Regression Model for Returns. By exploring the fact that volatility crosses all quantiles of the return distribution and using penalized fixed effects estimator we are able to control for otherwise unobserved heterogeneity among financial assets. Direct benefits of the proposed approach are revealed in the portfolio Value-at-Risk forecasting application, where our modeling strategy performs significantly better than several benchmark models according to both statistical and economic comparison. In particular Panel Quantile Regression Model for Returns consistently outperforms all the competitors in the 5% and 10% quantiles. Sound statistical performance translates directly into economic gains which is demonstrated in the Global Minimum Value-at-Risk Portfolio and Markowitz-like comparison. Overall results of our research are important for correct identification of the sources of systemic risk, and are particularly attractive for high dimensional applications.
+
+<br/>
+
+[Co-jumping of Treasury Yield Curve Rates](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3382841){:target="blank"} (with P.Fiser)<br/>
+Submitted (2019)<br/>
+
+**Abstract**: We study the role of co-jumps in the interest rate futures markets. To disentangle continuous part of quadratic covariation from co-jumps, we localize the co-jumps precisely through wavelet coefficients and identify statistically significant ones. Using high frequency data about U.S. and European yield curves we quantify the effect of co-jumps on their correlation structure. Empirical findings reveal much stronger co-jumping behavior of the U.S. yield curves in comparison to the European one. Further, we connect co-jumping behavior to the monetary policy announcements, and study effect of 103 FOMC and 119 ECB announcements on the identified co-jumps during the period from January 2007 to December 2017.
+
+<br/>
+
+Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcojumps" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+
+<br/>
 
 ### Work in Progress
 
