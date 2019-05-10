@@ -5,6 +5,7 @@ header {
   align-items: center; /* align vertical */
   height: 100%;
   text-align: center;
+  background: url('/assets/img/title.jpg') no-repeat center center scroll;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,7 +21,7 @@ header {
     background: #fff;
     font-family: "Helvetica Neue";
     font-weight: 100;
-    color: black;
+    color: white;
     background: rgba(0,0,0,0.0);
   }
 
@@ -80,14 +81,14 @@ header {
   text-align: center;
   display: inline-block;
   padding: 15px 30px;
-  border: 1px solid black;
+  border: 1px solid white;
   text-transform: uppercase;
   font-family: "Helvetica Neue";
   letter-spacing: 0.015em;
   font-size: 18px;
   font-weight: 200;
   line-height: 1;
-  color: black;
+  color: white;
   text-decoration: none;
   -webkit-transition: all 0.4s;
      -moz-transition: all 0.4s;
