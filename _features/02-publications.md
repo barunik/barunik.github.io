@@ -147,7 +147,7 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
-[Asymmetric Network Connectedness of Fears](https://ideas.repec.org/f/pba685.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
+[Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
 Submitted (2019)<br/>
 
 **Abstract**: We study how shocks to the forward-looking expectations of future stock prices, extracted from call and put options, create asymmetric network connections. We introduce a new measure of network connectedness, called asymmetric fear connectedness, which captures the information related to fear on both sides of the options market, and that can be a useful forward-looking systemic risk monitoring tool. The decomposed connectedness measures provide timely predictive information for near-future macroeconomic and uncertainty indicators, and they contain additional valuable information not included in the aggregate network connectedness measure.
@@ -168,7 +168,7 @@ Submitted (2019)<br/>
 
 <br/>
 
-[Co-jumping of Treasury Yield Curve Rates](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3382841){:target="blank"} (with P.Fiser)<br/>
+[Co-jumping of Treasury Yield Curve Rates](https://ideas.repec.org/p/arx/papers/1905.01541.html){:target="blank"} (with P.Fiser)<br/>
 Submitted (2019)<br/>
 
 **Abstract**: We study the role of co-jumps in the interest rate futures markets. To disentangle continuous part of quadratic covariation from co-jumps, we localize the co-jumps precisely through wavelet coefficients and identify statistically significant ones. Using high frequency data about U.S. and European yield curves we quantify the effect of co-jumps on their correlation structure. Empirical findings reveal much stronger co-jumping behavior of the U.S. yield curves in comparison to the European one. Further, we connect co-jumping behavior to the monetary policy announcements, and study effect of 103 FOMC and 119 ECB announcements on the identified co-jumps during the period from January 2007 to December 2017.
