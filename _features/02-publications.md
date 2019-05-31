@@ -154,6 +154,18 @@ Submitted (2019)<br/>
 
 <br/>
 
+[Sentiment-Driven Stochastic Volatility Model: A High-Frequency Textual Tool for Economists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397314){:target="blank"} (with Cathy Yi-Hsuan Chen, and J.Vecer)<br/>
+Submitted (2019)<br/>
+
+**Abstract**: We propose how to quantify high-frequency market sentiment using high-frequency news from NASDAQ news platform and support vector machine classifiers. News arrive at markets randomly and the resulting news sentiment behaves like a stochastic process. To characterize the joint evolution of sentiment, price, and volatility, we introduce a unified continuous-time sentiment-driven stochastic volatility model. We provide closed-form formulas for moments of the volatility and news sentiment processes and study the news impact. Further, we implement a simulation-based method to calibrate the parameters. Empirically, we document that news sentiment raises the threshold of volatility reversion, sustaining high market volatility.
+
+<br/>
+
+codes to paper <a href="https://github.com/barunik/npmsle" target="blank"><i class="fas fa-keyboard"></i></a>
+
+
+<br/>
+
 [Tail Risks, Asset prices, and Investment Horizons](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
 Submitted (2019)<br/>
 
@@ -188,10 +200,6 @@ Tales of sentiment driven tails (with W.Hardle and C.Chen) [slides available](ht
 <br/>
 
 Asset Pricing with Quantile Machine Learning (with M.Hronec)
-
-<br/>
-
-A continuous-time sentiment-driven stochastic volatility model (with C.Chen)
 
 <br/>
 
