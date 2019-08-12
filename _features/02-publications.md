@@ -23,9 +23,16 @@ code and package <a href="https://github.com/barunik/DistributionalForecasts.jl"
 <br/>
 
  [Quantile Coherency: A General Measure for Dependence between Cyclical Economic Variables](https://ideas.repec.org/p/arx/papers/1510.06946.html){:target="blank"} (with T.Kley)<br/>
-**The Econometrics Journal** (2019) forthcoming, <a href="https://doi.org/10.1093/ectj/utz002" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+**The Econometrics Journal** (2019), 22(2), pp. 131-152, <a href="https://doi.org/10.1093/ectj/utz002" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 code and package <a href="https://github.com/barunik/quantile_coherency_replication" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 Supplementary material [available](assets/files/20181130_quantile_cross_EctJ_supp.pdf){:target="blank"}
+
+<br/>
+
+[Total, asymmetric and frequency connectedness between oil and forex markets](https://ideas.repec.org/p/arx/papers/1805.03980.html){:target="blank"} (with E. Kocenda)<br/>
+**The Energy Journal** (2019),forthcoming<br/>
+codes for introduced measures <a href="https://github.com/barunik/sam" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+Note the package *frequencyConnectedness* available here can be used to replicate the paper <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
 
@@ -192,6 +199,10 @@ Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 <br/>
 
 ### Work in Progress
+
+<br/>
+
+Asset Pricing using Time-Frequency Dependent Network Centrality (with M. Ellington) 
 
 <br/>
 
