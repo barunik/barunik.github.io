@@ -139,7 +139,7 @@ codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 [Comovement of energy commodities revisited: Evidence from wavelet coherence analysis](https://ideas.repec.org/p/arx/papers/1201.4776.html){:target="blank"} (with L.Vacha)<br/>
 **Energy Economics** (2012), 34(1), pp. 241–247, <a href="https://doi.org/10.1016/j.eneco.2011.10.007" target="blank"><i class="ai ai-doi ai"></i></a>
 
-<br/>
+<br/> 
 
 [Can a stochastic cusp catastrophe model explain stock market crashes?](https://ideas.repec.org/a/eee/dyncon/v33y2009i10p1824-1836.html){:target="blank"} (with M.Vosvrda)<br/>
 **Journal of Economic Dynamics and Control** (2012), 33(10), 1824-1836 <a href="https://doi.org/10.1016/j.jedc.2009.04.004" target="blank"><i class="ai ai-doi ai"></i></a>
