@@ -139,7 +139,7 @@ codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 [Comovement of energy commodities revisited: Evidence from wavelet coherence analysis](https://ideas.repec.org/p/arx/papers/1201.4776.html){:target="blank"} (with L.Vacha)<br/>
 **Energy Economics** (2012), 34(1), pp. 241–247, <a href="https://doi.org/10.1016/j.eneco.2011.10.007" target="blank"><i class="ai ai-doi ai"></i></a>
 
-<br/> 
+<br/>
 
 [Can a stochastic cusp catastrophe model explain stock market crashes?](https://ideas.repec.org/a/eee/dyncon/v33y2009i10p1824-1836.html){:target="blank"} (with M.Vosvrda)<br/>
 **Journal of Economic Dynamics and Control** (2012), 33(10), 1824-1836 <a href="https://doi.org/10.1016/j.jedc.2009.04.004" target="blank"><i class="ai ai-doi ai"></i></a>
@@ -182,7 +182,7 @@ Submitted (2019)<br/>
 <br/>
 
 [Measurement of Common Risk Factors: A Panel Quantile Regression Model for Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
-Submitted (2019)<br/>
+R&R in **The Journal of Financial Markets** (2019)<br/>
 
 **Abstract**: This paper investigates how to measure common market risk factors using newly proposed Panel Quantile Regression Model for Returns. By exploring the fact that volatility crosses all quantiles of the return distribution and using penalized fixed effects estimator we are able to control for otherwise unobserved heterogeneity among financial assets. Direct benefits of the proposed approach are revealed in the portfolio Value-at-Risk forecasting application, where our modeling strategy performs significantly better than several benchmark models according to both statistical and economic comparison. In particular Panel Quantile Regression Model for Returns consistently outperforms all the competitors in the 5% and 10% quantiles. Sound statistical performance translates directly into economic gains which is demonstrated in the Global Minimum Value-at-Risk Portfolio and Markowitz-like comparison. Overall results of our research are important for correct identification of the sources of systemic risk, and are particularly attractive for high dimensional applications.
 
