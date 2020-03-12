@@ -16,7 +16,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 <br/>
 
 [Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
-**The Journal of Financial Markets** (2020) forthcoming<br/>
+**Journal of Financial Markets** (2020) forthcoming<br/>
 
 <br/>
 
