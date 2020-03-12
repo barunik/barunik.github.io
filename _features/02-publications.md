@@ -15,6 +15,10 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
+[Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
+**The Journal of Financial Markets** (2020) forthcoming<br/>
+
+<br/>
 
 [Forecasting dynamic return distributions based on ordered binary choice](https://ideas.repec.org/p/arx/papers/1711.05681.html){:target="blank"} (with S.Anatolyev)<br/>
 **International Journal of Forecasting** (2019), 35(3), pp.823-835,<a href="https://doi.org/10.1016/j.ijforecast.2019.01.005" target="blank"><i class="ai ai-doi ai"></i></a><br/>
@@ -181,12 +185,6 @@ Submitted (2019)<br/>
 
 <br/>
 
-[Measurement of Common Risk Factors: A Panel Quantile Regression Model for Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
-R&R in **The Journal of Financial Markets** (2019)<br/>
-
-**Abstract**: This paper investigates how to measure common market risk factors using newly proposed Panel Quantile Regression Model for Returns. By exploring the fact that volatility crosses all quantiles of the return distribution and using penalized fixed effects estimator we are able to control for otherwise unobserved heterogeneity among financial assets. Direct benefits of the proposed approach are revealed in the portfolio Value-at-Risk forecasting application, where our modeling strategy performs significantly better than several benchmark models according to both statistical and economic comparison. In particular Panel Quantile Regression Model for Returns consistently outperforms all the competitors in the 5% and 10% quantiles. Sound statistical performance translates directly into economic gains which is demonstrated in the Global Minimum Value-at-Risk Portfolio and Markowitz-like comparison. Overall results of our research are important for correct identification of the sources of systemic risk, and are particularly attractive for high dimensional applications.
-
-<br/>
 
 [Co-jumping of Treasury Yield Curve Rates](https://ideas.repec.org/p/arx/papers/1905.01541.html){:target="blank"} (with P.Fiser)<br/>
 Submitted (2019)<br/>
