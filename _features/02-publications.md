@@ -204,6 +204,14 @@ Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 
 <br/>
 
+
+[Abnormal Volatility of Stocks and Investment Disputes](https://){:target="blank"} (with Z.Drabek and M.Nevrla)<br/>
+Submitted (2019)<br/>
+
+TBA soon
+
+<br/>
+
 ### Work in Progress
 
 <br/>
