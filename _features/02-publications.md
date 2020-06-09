@@ -1,7 +1,7 @@
 ---
 id: publications
 name: Research
-heading: Selected (Recent) Publications
+heading: Selected Publications
 ---
 
 <!--- USAGE: JUST FILL AND ADD THIS
@@ -15,8 +15,8 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
-**Journal of Financial Markets** (2020) forthcoming<br/>
+[Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Financial Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
+**Journal of Financial Markets** (2020) forthcoming <a href="https://doi.org/10.1016/j.finmar.2020.100562" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 
 <br/>
 
@@ -159,6 +159,13 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Dynamic Horizon Specific Network Risk](https://arxiv.org/pdf/2006.04639.pdf){:target="blank"} (with M.Ellington)<br/>
+submitted (2020)<br/>
+
+**Abstract**: This paper examines the pricing of dynamic horizon specific network risk in the cross-section of stock returns. We show how to track such dynamic network connections on a daily basis using time-varying parameter vector auto-regressions. Empirically, we characterize short-term and long-term risk from a large-scale dynamic network on all S&P500 constituents' return volatilities. Consistent with theory, stocks with high sensitivities to dynamic network risk earn lower returns. A two-standard deviation increase in long-term (short-term) network risk loadings associate with a 14.73% (12.96%) drop in annualized expected returns.
+
+<br/>
+
 [Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
 R&R in **The Review of Economics and Statistics** (2019)<br/>
 
@@ -179,7 +186,7 @@ codes to paper <a href="https://github.com/barunik/npmsle" target="blank"><i cla
 <br/>
 
 [Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
-Submitted (2019)<br/>
+Submitted (2020)<br/>
 
 **Abstract**: We examine how extreme market risks are priced in the cross-section of asset returns at various horizons. Based on the decomposition of covariance between indicator functions capturing fluctuations of different parts of return distributions over various frequencies, we define a quantile spectral beta representation that characterizes asset's risk generally. Nesting the traditional frameworks, the new representation explains tail-specific as well as horizon-, or frequency-specific spectral risks. Further, we work with two notions of frequency-specific extreme market risks. First, we define tail market risk that captures dependence between extremely low market and asset returns. Second, extreme market volatility risk is characterized by dependence between extremely high increments of market volatility and extremely low asset return. Empirical findings based on the datasets with long enough history, 30 Fama-French Industry portfolios, and 25 Fama-French portfolios sorted on size and book-to-market support our intuition. We reach the same conclusion using stock-level data as well as daily data. These results suggest that both frequency-specific tail market risk and extreme volatility risk are priced and our final model provides significant improvement over specifications considered by previous literature.
 
@@ -201,11 +208,11 @@ Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 
 <br/>
 
-Asset Pricing using Time-Frequency Dependent Network Centrality (with M. Ellington)
+Deep Reinforcement Learning for Dynamic Decision Making with Quantile Preferences (with L.Vacha)
 
 <br/>
 
-Tales of sentiment driven tails (with W.Hardle and C.Chen) [slides available](https://www.wiwi.hu-berlin.de/de/forschung/irtg/lvb/members/personalpages/wh/talks/20181124-bar-che-hae-tale-of-tail-events.pdf)
+Measurement of Dynamic Networks in Large Financial and Economic Systems (with M.Ellington)
 
 <br/>
 
@@ -214,6 +221,10 @@ Asset Pricing with Quantile Machine Learning (with A.Galvao and M.Hronec)
 <br/>
 
 Dynamic density forecasting using machine learning (with L.Hanus)
+
+<br/>
+
+Tales of sentiment driven tails (with W.Hardle and C.Chen) [slides available](https://www.wiwi.hu-berlin.de/de/forschung/irtg/lvb/members/personalpages/wh/talks/20181124-bar-che-hae-tale-of-tail-events.pdf)
 
 <br/>
 
