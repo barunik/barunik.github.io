@@ -205,10 +205,10 @@ Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 <br/>
 
 
-[Abnormal Volatility of Stocks and Investment Disputes](https://){:target="blank"} (with Z.Drabek and M.Nevrla)<br/>
+[Abnormal Volatility of Stocks and Investment Disputes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630279){:target="blank"} (with Z.Drabek and M.Nevrla)<br/>
 Submitted (2019)<br/>
 
-TBA soon
+**Abstract**: Dramatic growth of investment disputes between foreign investors and host states rises serious questions about the impact of those disputes on investors. This paper is the first to explain increased uncertainty of investors about the outcome of arbitration, which may or may not lead to compensation for damages claimed by the investor. We find robust evidence that investment disputes lead to abnormal share fluctuations of companies involved in disputes with host countries. Importantly, while a positive outcome for an investor decreases uncertainty back to original levels, we document strong increase in the volatility of companies with negative outcome for the investor. We find that several variables including size of the award, political instability, location of arbitration, country of origin of investor or public policy considerations in host country explain large portion of the investor's uncertainty.
 
 <br/>
 
