@@ -159,7 +159,7 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
-[Dynamic Horizon Specific Network Risk](https://arxiv.org/pdf/2006.04639.pdf){:target="blank"} (with M.Ellington)<br/>
+[Dynamic Horizon Specific Network Risk](https://ideas.repec.org/p/arx/papers/2006.04639.html){:target="blank"} (with M.Ellington)<br/>
 submitted (2020)<br/>
 
 **Abstract**: This paper examines the pricing of dynamic horizon specific network risk in the cross-section of stock returns. We show how to track such dynamic network connections on a daily basis using time-varying parameter vector auto-regressions. Empirically, we characterize short-term and long-term risk from a large-scale dynamic network on all S&P500 constituents' return volatilities. Consistent with theory, stocks with high sensitivities to dynamic network risk earn lower returns. A two-standard deviation increase in long-term (short-term) network risk loadings associate with a 14.73% (12.96%) drop in annualized expected returns.
@@ -205,8 +205,8 @@ Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 <br/>
 
 
-[Abnormal Volatility of Stocks and Investment Disputes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630279){:target="blank"} (with Z.Drabek and M.Nevrla)<br/>
-Submitted (2019)<br/>
+[Investment Disputes and Abnormal Volatility of Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630279){:target="blank"} (with Z.Drabek and M.Nevrla)<br/>
+Submitted (2020)<br/>
 
 **Abstract**: Dramatic growth of investment disputes between foreign investors and host states rises serious questions about the impact of those disputes on investors. This paper is the first to explain increased uncertainty of investors about the outcome of arbitration, which may or may not lead to compensation for damages claimed by the investor. We find robust evidence that investment disputes lead to abnormal share fluctuations of companies involved in disputes with host countries. Importantly, while a positive outcome for an investor decreases uncertainty back to original levels, we document strong increase in the volatility of companies with negative outcome for the investor. We find that several variables including size of the award, political instability, location of arbitration, country of origin of investor or public policy considerations in host country explain large portion of the investor's uncertainty.
 
