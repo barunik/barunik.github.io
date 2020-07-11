@@ -173,6 +173,8 @@ submitted (2020)<br/>
 **Abstract**: This paper examines the pricing of short-term and long-term dynamic network risk in the cross-section of stock returns. Stocks with high sensitivities to dynamic network risk earn lower returns. We rationalize our finding with economic theory that allows the stochastic discount factor to load on network risk through the precautionary savings channel. A one-standard deviation increase in long-term (short-term) network risk loadings associate with a 7.66% (6.71%) drop in annualized expected returns.<br/>
 code and package <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a>
 
+<br/>
+
 [Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
 R&R in **The Review of Economics and Statistics** (2019)<br/>
 
