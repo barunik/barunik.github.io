@@ -159,12 +159,19 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
-[Dynamic Horizon Specific Network Risk](https://ideas.repec.org/p/arx/papers/2006.04639.html){:target="blank"} (with M.Ellington)<br/>
+[Measurement of Dynamic Networks in Large Financial and Economic Systems](https://){:target="blank"} (with M.Ellington)<br/>
 submitted (2020)<br/>
 
-**Abstract**: This paper examines the pricing of dynamic horizon specific network risk in the cross-section of stock returns. We show how to track such dynamic network connections on a daily basis using time-varying parameter vector auto-regressions. Empirically, we characterize short-term and long-term risk from a large-scale dynamic network on all S&P500 constituents' return volatilities. Consistent with theory, stocks with high sensitivities to dynamic network risk earn lower returns. A two-standard deviation increase in long-term (short-term) network risk loadings associate with a 14.73% (12.96%) drop in annualized expected returns.
+**Abstract**: TBA soon <br/>
+code and package <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
+
+[Dynamic Network Risk](https://ideas.repec.org/p/arx/papers/2006.04639.html){:target="blank"} (with M.Ellington)<br/>
+submitted (2020)<br/>
+
+**Abstract**: This paper examines the pricing of short-term and long-term dynamic network risk in the cross-section of stock returns. Stocks with high sensitivities to dynamic network risk earn lower returns. We rationalize our finding with economic theory that allows the stochastic discount factor to load on network risk through the precautionary savings channel. A one-standard deviation increase in long-term (short-term) network risk loadings associate with a 7.66% (6.71%) drop in annualized expected returns.<br/>
+code and package <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a>
 
 [Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
 R&R in **The Review of Economics and Statistics** (2019)<br/>
