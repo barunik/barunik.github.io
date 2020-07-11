@@ -160,7 +160,7 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 <br/>
 
 [Measurement of Dynamic Networks in Large Financial and Economic Systems](https://){:target="blank"} (with M.Ellington)<br/>
-submitted (2020)<br/>
+coming soon<br/>
 
 **Abstract**: TBA soon <br/>
 code and package <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a>
