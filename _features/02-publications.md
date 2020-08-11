@@ -225,6 +225,10 @@ Submitted (2020)<br/>
 
 <br/>
 
+Deep Learning, Predictability, and Optimal Portfolio Returns (with M.Babiak)
+
+<br/>
+
 Deep Reinforcement Learning for Dynamic Decision Making with Quantile Preferences (with L.Vacha)
 
 <br/>
