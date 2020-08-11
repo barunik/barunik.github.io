@@ -176,7 +176,7 @@ code and package <a href="https://github.com/barunik/DynamicNets.jl" target="bla
 <br/>
 
 [Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
-R&R in **The Review of Economics and Statistics** (2019)<br/>
+R&R in **The Review of Economics and Statistics** (2020)<br/>
 
 **Abstract**: We study how shocks to the forward-looking expectations of future stock prices, extracted from call and put options, create asymmetric network connections. We introduce a new measure of network connectedness, called asymmetric fear connectedness, which captures the information related to fear on both sides of the options market, and that can be a useful forward-looking systemic risk monitoring tool. The decomposed connectedness measures provide timely predictive information for near-future macroeconomic and uncertainty indicators, and they contain additional valuable information not included in the aggregate network connectedness measure.
 
@@ -233,10 +233,6 @@ Deep Reinforcement Learning for Dynamic Decision Making with Quantile Preference
 
 <br/>
 
-Measurement of Dynamic Networks in Large Financial and Economic Systems (with M.Ellington)
-
-<br/>
-
 Asset Pricing with Quantile Machine Learning (with A.Galvao and M.Hronec)
 
 <br/>
@@ -250,7 +246,3 @@ Tales of sentiment driven tails (with W.Hardle and C.Chen) [slides available](ht
 <br/>
 
 Horizon-specific risks, higher moments, and asset prices (with J.Kurka)
-
-<br/>
-
-Dynamic quantile model for bond pricing (F.Cech)
