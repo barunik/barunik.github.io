@@ -159,6 +159,14 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Deep Learning, Predictability, and Optimal Portfolio Returns]( ){:target="blank"} (with M.Babiak)<br/>
+submitted (2020)<br/>
+
+**Abstract**: We study optimal dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. The results show statistically and economically significant out-of-sample portfolio benefits of deep learning as measured by high certainty equivalent returns and Sharpe ratios. Return predictability via deep learning generates substantially improved portfolio performance across different subsamples, particularly the recession periods. These gains are robust to including transaction costs, short-selling and borrowing constraints. <br/>
+
+
+<br/>
+
 [Dynamic Networks in Large Financial and Economic Systems](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
 submitted (2020)<br/>
 
@@ -222,10 +230,6 @@ Submitted (2020)<br/>
 <br/>
 
 ### Work in Progress
-
-<br/>
-
-Deep Learning, Predictability, and Optimal Portfolio Returns (with M.Babiak)
 
 <br/>
 
