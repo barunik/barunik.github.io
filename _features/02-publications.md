@@ -18,8 +18,6 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 [Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
 **The Review of Economics and Statistics** (2020) forthcoming<br/>
 
-**Abstract**: This paper introduces forward-looking measures of the network connectedness of fears in the financial system, arising due to the good and bad beliefs of market participants about uncertainty that spreads unequally across a network of banks. We argue that this asymmetric network structure extracted from call and put traded option prices of the main U.S. banks contains valuable information for predicting macroeconomic conditions and economic uncertainty, and it can serve as a tool for forward-looking systemic risk monitoring.
-
 <br/>
 
 [Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Financial Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
