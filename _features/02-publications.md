@@ -15,6 +15,13 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
+[Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
+**The Review of Economics and Statistics** (2020) forthcoming<br/>
+
+**Abstract**: This paper introduces forward-looking measures of the network connectedness of fears in the financial system, arising due to the good and bad beliefs of market participants about uncertainty that spreads unequally across a network of banks. We argue that this asymmetric network structure extracted from call and put traded option prices of the main U.S. banks contains valuable information for predicting macroeconomic conditions and economic uncertainty, and it can serve as a tool for forward-looking systemic risk monitoring.
+
+<br/>
+
 [Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Financial Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
 **Journal of Financial Markets** (2020) forthcoming <a href="https://doi.org/10.1016/j.finmar.2020.100562" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 
@@ -180,13 +187,6 @@ submitted (2020)<br/>
 
 **Abstract**: This paper examines the pricing of short-term and long-term dynamic network risk in the cross-section of stock returns. Stocks with high sensitivities to dynamic network risk earn lower returns. We rationalize our finding with economic theory that allows the stochastic discount factor to load on network risk through the precautionary savings channel. A one-standard deviation increase in long-term (short-term) network risk loadings associate with a 7.66% (6.71%) drop in annualized expected returns.<br/>
 code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
-
-<br/>
-
-[Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
-R&R in **The Review of Economics and Statistics** (2020)<br/>
-
-**Abstract**: We study how shocks to the forward-looking expectations of future stock prices, extracted from call and put options, create asymmetric network connections. We introduce a new measure of network connectedness, called asymmetric fear connectedness, which captures the information related to fear on both sides of the options market, and that can be a useful forward-looking systemic risk monitoring tool. The decomposed connectedness measures provide timely predictive information for near-future macroeconomic and uncertainty indicators, and they contain additional valuable information not included in the aggregate network connectedness measure.
 
 <br/>
 
