@@ -200,10 +200,10 @@ codes to paper <a href="https://github.com/barunik/npmsle" target="blank"><i cla
 
 <br/>
 
-[Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
+[Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
 Submitted (2020)<br/>
 
-**Abstract**: We examine how extreme market risks are priced in the cross-section of asset returns at various horizons. Based on the decomposition of covariance between indicator functions capturing fluctuations of different parts of return distributions over various frequencies, we define a quantile spectral beta representation that characterizes asset's risk generally. Nesting the traditional frameworks, the new representation explains tail-specific as well as horizon-, or frequency-specific spectral risks. Further, we work with two notions of frequency-specific extreme market risks. First, we define tail market risk that captures dependence between extremely low market and asset returns. Second, extreme market volatility risk is characterized by dependence between extremely high increments of market volatility and extremely low asset return. Empirical findings based on the datasets with long enough history, 30 Fama-French Industry portfolios, and 25 Fama-French portfolios sorted on size and book-to-market support our intuition. We reach the same conclusion using stock-level data as well as daily data. These results suggest that both frequency-specific tail market risk and extreme volatility risk are priced and our final model provides significant improvement over specifications considered by previous literature.
+**Abstract**: We show that the two important sources of risk -- market tail risk and extreme market volatility risk -- are priced in the cross-section of asset returns heterogeneously across horizons. Specifically, we find that tail risk is a short-term phenomenon whereas extreme volatility risk is priced by investors in the long-term. These risks stem from a dependence structures in the joint distribution of stochastic discount factor and asset returns at various investment horizons that are more general than usually assumed by traditional covariance-based measures. The risk premium we document suggests that investors care about the transitory as well as persistent shocks.
 
 <br/>
 
