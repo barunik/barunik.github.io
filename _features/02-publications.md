@@ -164,6 +164,16 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Uncertainty Network Risk and Currency Returns∗](){:target="blank"} (with M.Babiak)<br/>
+preprint draft available soon<br/>
+
+**Abstract**: We examine the pricing of horizon specific uncertainty network risk in the cross- section of currency returns. Buying currencies that are receivers of short-term shocks and selling currencies that are transmitters of short-term shocks exhibits a high Sharpe ratio and yields a significant alpha when controlling for dollar, carry trade, dollar carry trade, volatility, variance risk premium, and momentum strategies. This profitability stems primarily from the causal nature of shock propagation and not from contem- poraneous dynamics. We also show that shock propagation at longer horizons is less priced, which indicates a downward sloping term structure of network risk in currency markets. <br/>
+
+
+<br/>
+
+<br/>
+
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
 preprint draft (Sept 2020) available<br/>
 
