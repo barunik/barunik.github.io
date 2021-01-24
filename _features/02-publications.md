@@ -164,17 +164,17 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
-[Uncertainty Network Risk and Currency Returns](){:target="blank"} (with M.Babiak)<br/>
-preprint draft available soon!<br/>
+[Uncertainty Network Risk and Currency Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3772245){:target="blank"} (with M.Babiak)<br/>
+preprint draft (Jan 2021)<br/>
 
-**Abstract**: We examine the pricing of a horizon specific network risk, extracted from option implied volatilities on exchange rates, in the cross-section of currency returns. Buying currencies that are receivers of short-term shocks and selling currencies that are transmitters of short-term shocks exhibits a high Sharpe ratio and yields a significant alpha when controlling for dollar, carry trade, dollar carry trade, volatility, variance risk premium, and momentum strategies. This profitability stems primarily from the causal nature of shock propagation and not from contemporaneous dynamics. Shock propagation at longer horizons is less priced, which indicates a downward-sloping term structure of network risk in currency markets. <br/>
+**Abstract**: We examine the pricing of a horizon specific uncertainty network risk, extracted from option implied variances on exchange rates, in the cross-section of currency returns. Buying currencies that are receivers and selling currencies that are transmitters of short-term shocks exhibits a high Sharpe ratio and yields a significant alpha when controlling for standard dollar, carry trade, volatility, variance risk premium and momentum strategies. This profitability stems primarily from the causal nature of shock propagation and not from contemporaneous dynamics. Shock propagation at longer horizons is priced less, indicating a downward-sloping term structure of uncertainty network risk in currency markets. <br/>
 
 <br/>
 
-[Dynamic industry uncertainty networks and the business cycle](){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
-preprint draft available soon!<br/>
+[Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
+preprint draft (Jan 2021)<br/>
 
-**Abstract**: This paper introduces new forward-looking measures of uncertainty built from a network representation of main US industries. We argue that this network structure extracted from options investors’ expectations is meaningfully dynamic and contains valuable information relevant for business cycles. Classifying industries according to their contribution to system-related uncertainty across business cycles, we uncover an uncertainty hub role for the communications, industrials and information technology sectors, while shocks to materials, real estate and utilities do not propagate strongly across the network. We find that a dynamic ex-ante network of uncertainty is a useful predictor of business cycles especially when it is built on uncertainty hubs. The uncer- tainty network is found to behave counter-cyclically since a tighter network of industry uncertainty tends to associate with future business cycle contractions. <br/>
+**Abstract**: This paper introduces new forward-looking uncertainty network measures built from the main US industries. We argue that this network structure extracted from options investors' expectations is meaningfully dynamic and contains valuable information relevant for business cycles. Classifying industries according to their contribution to system-related uncertainty across business cycles, we uncover an uncertainty hub role for the communications, industrials and information technology sectors, while shocks to materials, real estate and utilities do not propagate strongly across the network. We find that a dynamic ex-ante network of uncertainty is a useful predictor of business cycles especially when it is based on uncertainty hubs. The uncertainty network is found to behave counter-cyclically since a tighter network of industry uncertainty tends to associate with future business cycle contractions. <br/>
 
 <br/>
 
