@@ -169,6 +169,14 @@ preprint draft (Jan 2021)<br/>
 
 **Abstract**: We examine the pricing of a horizon specific uncertainty network risk, extracted from option implied variances on exchange rates, in the cross-section of currency returns. Buying currencies that are receivers and selling currencies that are transmitters of short-term shocks exhibits a high Sharpe ratio and yields a significant alpha when controlling for standard dollar, carry trade, volatility, variance risk premium and momentum strategies. This profitability stems primarily from the causal nature of shock propagation and not from contemporaneous dynamics. Shock propagation at longer horizons is priced less, indicating a downward-sloping term structure of uncertainty network risk in currency markets. <br/>
 
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" poster="assets/currency_net_2.pdf">
+    <source src="assets/currency_net_compressed.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
+
 <br/>
 
 [Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
