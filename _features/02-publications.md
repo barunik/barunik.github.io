@@ -172,7 +172,7 @@ preprint draft (Jan 2021)<br/>
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" poster="assets/files/currency_net_2.pdf">
-    <source src="assets/files/currency_net_compressed.mp4" type="video/mp4">
+    <source src="http://staff.utia.cas.cz/barunik/files/currency_net_compressed.mp4" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
