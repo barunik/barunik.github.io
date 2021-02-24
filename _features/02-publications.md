@@ -197,9 +197,9 @@ preprint draft (Sept 2020) available<br/>
 <br/>
 
 [Dynamic Networks in Large Financial and Economic Systems](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
-submitted (2020)<br/>
+revised (2021)<br/>
 
-**Abstract**: We propose new measures to characterize dynamic network connections in large financial and economic systems. In doing so, our measures allow one to describe and understand causal network structures that evolve throughout time and over horizons using variance decomposition matrices from time-varying parameter VAR (TVP VAR) models. These methods allow researchers and practitioners to examine network connections over any horizon of interest whilst also being applicable to a wide range of economic and financial data. Our empirical application redefines the meaning of big in big data, in the context of TVP VAR models, and track dynamic connections among illiquidity ratios of all S\&P500 constituents. We then study the information content of these measures for the market return and real economy. <br/>
+**Abstract**: This paper identifies frequency-dependent network structures that evolve over time. To measure such dynamic networks, we propose a computationally efficient framework that is widely applicable to many economic and financial datasets, and readily available for high dimensional models. We provide Monte Carlo evidence that our measures are able to reliably recover true network connections from a battery of DGPs and also develop a testing procedure for statistical differences among frequency-dependent network connections. Our empirical application on firm-level realized volatilities documents substantial heterogeneities in dynamic network structures that may be useful as an online monitoring tool to help guide macro-prudential policy. <br/>
 code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
