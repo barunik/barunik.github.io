@@ -259,7 +259,7 @@ Deep Reinforcement Learning for Dynamic Decision Making with Quantile Preference
 
 <br/>
 
-Asset Pricing with Quantile Machine Learning (with A.Galvao and M.Hronec)
+Asset Pricing with Quantile Machine Learning (with M.Hronec)
 
 <br/>
 
