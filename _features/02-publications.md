@@ -182,9 +182,9 @@ The video below illustrates the short-term currency network during the Global Fi
 <br/>
 
 [Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
-preprint draft (Jan 2021)<br/>
+preprint draft (March 2021)<br/>
 
-**Abstract**: This paper introduces new forward-looking uncertainty network measures built from the main US industries. We argue that this network structure extracted from options investors' expectations is meaningfully dynamic and contains valuable information relevant for business cycles. Classifying industries according to their contribution to system-related uncertainty across business cycles, we uncover an uncertainty hub role for the communications, industrials and information technology sectors, while shocks to materials, real estate and utilities do not propagate strongly across the network. We find that a dynamic ex-ante network of uncertainty is a useful predictor of business cycles especially when it is based on uncertainty hubs. The uncertainty network is found to behave counter-cyclically since a tighter network of industry uncertainty tends to associate with future business cycle contractions. <br/>
+**Abstract**: We argue that uncertainty network structures extracted from option prices contain valuable information for business cycles. Classifying U.S. industries according to their contribution to system-related uncertainty across business cycles, we uncover an uncertainty hub role for the communications, industrials and information technology sectors, while shocks to materials, real estate and utilities do not create strong linkages in the network. Moreover, we find that this ex-ante network of uncertainty is a useful predictor of business cycles, especially when it is based on uncertainty hubs. The industry uncertainty network behaves counter-cyclically in that a tighter network tends to associate with future business cycle contractions. <br/>
 
 <br/>
 
