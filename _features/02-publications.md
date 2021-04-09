@@ -164,6 +164,13 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Frequency-Dependent Higher Moment Risks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3823002){:target="blank"} (with J.Kurka)<br/>
+preprint draft (April 2021)<br/>
+
+**Abstract**: Based on intraday data for a large cross-section of individual stocks and exchange traded funds, we show that short-term as well as long-term fluctuations of realized market and average idiosyncratic higher moments risks are priced in the cross-section of asset returns. Specifically, we find that market and average idiosyncratic volatility and kurtosis are significantly priced by investors mainly in the long-run even if controlled by market moments and other factors, while skewness is mostly short-run phenomenon. A conditional pricing model capturing the time-variation of moments confirms downward-sloping term structure of skewness risk and upward-sloping term structure of kurtosis risk, moreover the term structures connected to market skewness risk and average idiosyncratic skewness risk exhibit different dymanics. <br/>
+
+<br/>
+
 [Uncertainty Network Risk and Currency Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3772245){:target="blank"} (with M.Babiak)<br/>
 preprint draft (Jan 2021)<br/>
 
