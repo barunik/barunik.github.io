@@ -171,10 +171,10 @@ preprint draft (April 2021)<br/>
 
 <br/>
 
-[Uncertainty Network Risk and Currency Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3772245){:target="blank"} (with M.Babiak)<br/>
-preprint draft (Jan 2021)<br/>
+[Currency Network Risk](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Babiak)<br/>
+preprint draft (July 2021)<br/>
 
-**Abstract**: We examine the pricing of a horizon specific uncertainty network risk, extracted from option implied variances on exchange rates, in the cross-section of currency returns. Buying currencies that are receivers and selling currencies that are transmitters of short-term shocks exhibits a high Sharpe ratio and yields a significant alpha when controlling for standard dollar, carry trade, volatility, variance risk premium and momentum strategies. This profitability stems primarily from the causal nature of shock propagation and not from contemporaneous dynamics. Shock propagation at longer horizons is priced less, indicating a downward-sloping term structure of uncertainty network risk in currency markets. <br/>
+**Abstract**: This paper identifies new currency risk stemming from a network of idiosyncratic option-based currency volatilities and shows how such network risk is priced in the cross-section of currency returns. A portfolio that buys net-receivers and sells net-transmitters of short-term linkages between currency volatilities generates a significant Sharpe ratio. The network strategy formed on causal connections is uncorrelated with popular benchmarks and generates a significant alpha, while network returns formed on aggregate connections, which are driven by a strong correlation component, are partially subsumed by standard factors. Long-term linkages are priced less, indicating a downward-sloping term structure of network risk. <br/>
 
 The video below illustrates the short-term currency network during the Global Financial Crisis. If the video does not play properly, feel free to watch it [here](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fbg6uk6prpodwnuj%2FCurrency%2520Network.mp4%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEc2H1o7Yen4A_u-iPJZ7qFZOy1PQ).
 
@@ -196,9 +196,9 @@ preprint draft (March 2021)<br/>
 <br/>
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (Sept 2020) available<br/>
+preprint draft (July 2021) available<br/>
 
-**Abstract**: We study optimal dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. The results show statistically and economically significant out-of-sample portfolio benefits of deep learning as measured by high certainty equivalent returns and Sharpe ratios. Return predictability via deep learning generates substantially improved portfolio performance across different subsamples, particularly the recession periods. These gains are robust to including transaction costs, short-selling and borrowing constraints. <br/>
+**Abstract**: We study dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. Our results show statistically and economically significant benefits from using deep learning to form optimal portfolios through certainty equivalent returns and Sharpe ratios. We demonstrate that a long-short-term-memory recurrent neural network, which excels in learning complex time-series dependencies, generates a superior performance among a variety of networks considered. Return predictability via deep learning generates substantially improved portfolio performance across different subsamples, particularly during recessionary periods. These gains are robust to including transaction costs, short-selling and borrowing constraints. <br/>
 
 
 <br/>
