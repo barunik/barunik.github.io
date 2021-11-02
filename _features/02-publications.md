@@ -16,17 +16,17 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 <br/>
 
 [Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
-**The Review of Economics and Statistics** (2020) forthcoming<br/>
-
+**The Review of Economics and Statistics** (2021), forthcoming, <a href="https://doi.org/10.1162/rest_a_01003" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+replication codes and data <a href="https://doi.org/10.7910/DVN/GSXAWW" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 <br/>
 
 [Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Financial Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
-**Journal of Financial Markets** (2020) forthcoming <a href="https://doi.org/10.1016/j.finmar.2020.100562" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+**Journal of Financial Markets** (2021),  52, 100562, <a href="https://doi.org/10.1016/j.finmar.2020.100562" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 
 <br/>
 
 [Forecasting dynamic return distributions based on ordered binary choice](https://ideas.repec.org/p/arx/papers/1711.05681.html){:target="blank"} (with S.Anatolyev)<br/>
-**International Journal of Forecasting** (2019), 35(3), pp.823-835,<a href="https://doi.org/10.1016/j.ijforecast.2019.01.005" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+**International Journal of Forecasting** (2019), 35(3), pp.823-835, <a href="https://doi.org/10.1016/j.ijforecast.2019.01.005" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 code and package <a href="https://github.com/barunik/DistributionalForecasts.jl" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
@@ -39,7 +39,7 @@ Supplementary material [available](assets/files/20181130_quantile_cross_EctJ_sup
 <br/>
 
 [Total, asymmetric and frequency connectedness between oil and forex markets](https://ideas.repec.org/p/arx/papers/1805.03980.html){:target="blank"} (with E. Kocenda)<br/>
-**The Energy Journal** (2019),forthcoming<br/>
+**The Energy Journal** (2019),vol 40, pp. 157 - 174, <a href="https://doi.org/10.5547/01956574.40.SI2.jbar" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 codes for introduced measures <a href="https://github.com/barunik/sam" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 Note the package *frequencyConnectedness* available here can be used to replicate the paper <a href="https://github.com/barunik/frequencyConnectedness" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 Supplementary material [available](assets/files/2019_EJ_Kocendasupp.pdf){:target="blank"}
@@ -164,6 +164,14 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Persistence in Economic Networks](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
+revised (2021)<br/>
+
+**Abstract**: This paper studies heterogeneous network structures driven by different degrees of persistence in economic connections. Using frequency domain techniques, we introduce measures that characterize network connections stemming from transitory and persistent components of shocks. Our approach permits testing for statistical differences in such connections that evolve over time. We estimate uncertainty networks from the main US sectors and argue that they track transitory and persistent sources of systemic risk. Hence they may serve as a useful tool for macro-prudential supervisors and investors alike. <br/>
+code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
+
+<br/>
+
 [Frequency-Dependent Higher Moment Risks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3823002){:target="blank"} (with J.Kurka)<br/>
 preprint draft (April 2021)<br/>
 
@@ -171,10 +179,10 @@ preprint draft (April 2021)<br/>
 
 <br/>
 
-[Uncertainty Network Risk and Currency Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3772245){:target="blank"} (with M.Babiak)<br/>
-preprint draft (Jan 2021)<br/>
+[Currency Network Risk](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Babiak)<br/>
+preprint draft (July 2021)<br/>
 
-**Abstract**: We examine the pricing of a horizon specific uncertainty network risk, extracted from option implied variances on exchange rates, in the cross-section of currency returns. Buying currencies that are receivers and selling currencies that are transmitters of short-term shocks exhibits a high Sharpe ratio and yields a significant alpha when controlling for standard dollar, carry trade, volatility, variance risk premium and momentum strategies. This profitability stems primarily from the causal nature of shock propagation and not from contemporaneous dynamics. Shock propagation at longer horizons is priced less, indicating a downward-sloping term structure of uncertainty network risk in currency markets. <br/>
+**Abstract**: This paper identifies new currency risk stemming from a network of idiosyncratic option-based currency volatilities and shows how such network risk is priced in the cross-section of currency returns. A portfolio that buys net-receivers and sells net-transmitters of short-term linkages between currency volatilities generates a significant Sharpe ratio. The network strategy formed on causal connections is uncorrelated with popular benchmarks and generates a significant alpha, while network returns formed on aggregate connections, which are driven by a strong correlation component, are partially subsumed by standard factors. Long-term linkages are priced less, indicating a downward-sloping term structure of network risk. <br/>
 
 The video below illustrates the short-term currency network during the Global Financial Crisis. If the video does not play properly, feel free to watch it [here](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fbg6uk6prpodwnuj%2FCurrency%2520Network.mp4%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEc2H1o7Yen4A_u-iPJZ7qFZOy1PQ).
 
@@ -196,18 +204,10 @@ preprint draft (March 2021)<br/>
 <br/>
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (Sept 2020) available<br/>
+preprint draft (July 2021) available<br/>
 
-**Abstract**: We study optimal dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. The results show statistically and economically significant out-of-sample portfolio benefits of deep learning as measured by high certainty equivalent returns and Sharpe ratios. Return predictability via deep learning generates substantially improved portfolio performance across different subsamples, particularly the recession periods. These gains are robust to including transaction costs, short-selling and borrowing constraints. <br/>
+**Abstract**: We study dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. Our results show statistically and economically significant benefits from using deep learning to form optimal portfolios through certainty equivalent returns and Sharpe ratios. We demonstrate that a long-short-term-memory recurrent neural network, which excels in learning complex time-series dependencies, generates a superior performance among a variety of networks considered. Return predictability via deep learning generates substantially improved portfolio performance across different subsamples, particularly during recessionary periods. These gains are robust to including transaction costs, short-selling and borrowing constraints. <br/>
 
-
-<br/>
-
-[Dynamic Networks in Large Financial and Economic Systems](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
-revised (2021)<br/>
-
-**Abstract**: This paper identifies frequency-dependent network structures that evolve over time. To measure such dynamic networks, we propose a computationally efficient framework that is widely applicable to many economic and financial datasets, and readily available for high dimensional models. We provide Monte Carlo evidence that our measures are able to reliably recover true network connections from a battery of DGPs and also develop a testing procedure for statistical differences among frequency-dependent network connections. Our empirical application on firm-level realized volatilities documents substantial heterogeneities in dynamic network structures that may be useful as an online monitoring tool to help guide macro-prudential policy. <br/>
-code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
 
