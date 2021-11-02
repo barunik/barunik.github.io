@@ -22,6 +22,7 @@ replication codes and data <a href="https://doi.org/10.7910/DVN/GSXAWW" target="
 
 [Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Financial Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
 **Journal of Financial Markets** (2021),  52, 100562, <a href="https://doi.org/10.1016/j.finmar.2020.100562" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+replication codes and data <a href="https://github.com/frantisekcech/PQRreturns" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
 <br/>
 
