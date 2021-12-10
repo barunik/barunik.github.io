@@ -232,10 +232,10 @@ codes to paper <a href="https://github.com/barunik/npmsle" target="blank"><i cla
 
 <br/>
 
-[Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
-Submitted (2020)<br/>
+[Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
+under revision (Dec 2021)<br/>
 
-**Abstract**: We show that the two important sources of risk -- market tail risk and extreme market volatility risk -- are priced in the cross-section of asset returns heterogeneously across horizons. Specifically, we find that tail risk is a short-term phenomenon whereas extreme volatility risk is priced by investors in the long-term. These risks stem from a dependence structures in the joint distribution of stochastic discount factor and asset returns at various investment horizons that are more general than usually assumed by traditional covariance-based measures. The risk premium we document suggests that investors care about the transitory as well as persistent shocks.
+**Abstract**: This paper investigates how two important sources of risk -- market tail risk and extreme market volatility risk -- are priced into the cross-section of asset returns across various investment horizons. To identify such risks, we propose a quantile spectral beta representation of risk based on the decomposition of covariance between indicator functions that capture fluctuations over various frequencies. We study the asymptotic behavior of the proposed estimators of such risk. Empirically, we find that tail risk is a short-term phenomenon, whereas extreme volatility risk is priced by investors in the long term when pricing a cross-section of individual stocks. In addition, we study popular industry, size and value, profit, investment or book-to-market portfolios, as well as portfolios constructed from various asset classes, portfolios sorted on cash flow duration and other strategies. These results reveal that tail-dependent and horizon-specific risks are priced heterogeneously across datasets and are important sources of risk for investors.
 
 <br/>
 
