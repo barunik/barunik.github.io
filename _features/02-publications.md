@@ -165,6 +165,15 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Learning Probability Distributions in Macroeconomics and Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083719){:target="blank"} (with L.Hanus)<br/>
+preprint draft (Apr 2022)<br/>
+
+**Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
+code and package in Julia coming soon
+
+
+<br/>
+
 [Persistence in Economic Networks](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
 preprint draft (Oct 2021)<br/>
 
