@@ -20,6 +20,13 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 replication codes and data <a href="https://doi.org/10.7910/DVN/GSXAWW" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 <br/>
 
+[Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
+**Journal of Financial Econometrics** (2022), forthcoming<br/>
+replication codes <a href="https://github.com/barunik/QSbeta" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+
+<br/>
+
+
 [Measurement of Common Risks in Tails: A Panel Quantile Regression Model for Financial Returns](https://ideas.repec.org/p/arx/papers/1708.08622.html){:target="blank"} (with F.Cech)<br/>
 **Journal of Financial Markets** (2021),  52, 100562, <a href="https://doi.org/10.1016/j.finmar.2020.100562" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 replication codes and data <a href="https://github.com/frantisekcech/PQRreturns" target="blank"><i class="fas fa-keyboard"></i></a><br/>
@@ -238,13 +245,6 @@ Submitted (2019)<br/>
 
 codes to paper <a href="https://github.com/barunik/npmsle" target="blank"><i class="fas fa-keyboard"></i></a>
 
-
-<br/>
-
-[Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
-under revision (Dec 2021)<br/>
-
-**Abstract**: This paper investigates how two important sources of risk -- market tail risk and extreme market volatility risk -- are priced into the cross-section of asset returns across various investment horizons. To identify such risks, we propose a quantile spectral beta representation of risk based on the decomposition of covariance between indicator functions that capture fluctuations over various frequencies. We study the asymptotic behavior of the proposed estimators of such risk. Empirically, we find that tail risk is a short-term phenomenon, whereas extreme volatility risk is priced by investors in the long term when pricing a cross-section of individual stocks. In addition, we study popular industry, size and value, profit, investment or book-to-market portfolios, as well as portfolios constructed from various asset classes, portfolios sorted on cash flow duration and other strategies. These results reveal that tail-dependent and horizon-specific risks are priced heterogeneously across datasets and are important sources of risk for investors.
 
 <br/>
 
