@@ -13,6 +13,8 @@ header {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  animation: change 15s infinite;
+  transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
 
   .headline { padding: 120px 0; }
 
@@ -119,5 +121,24 @@ header {
     .headline { padding: 75px 0 25px 0; }
     h1 { font-size: 60px; }
     h2 { font-size: 30px; }
+  }
+}
+
+@keyframes change{
+  0%
+  {
+    background-image: url('/assets/img/title.jpg');
+  }
+  30%
+  {
+    background-image: url('/assets/img/title3.jpg');
+  }
+  70%
+  {
+    background-image: url('/assets/img/title2.jpg');
+  }
+  100%
+  {
+    background-image: url('/assets/img/title.jpg');
   }
 }
