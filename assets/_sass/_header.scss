@@ -13,8 +13,11 @@ header {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  animation: change 15s infinite;
-  transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+  animation: change;
+  animation-duration: 40s;
+  animation-iteration-count: infinite;
+  animation-timing-function: step-start;
+  animation-play-state: running;
 
   .headline { padding: 120px 0; }
 
@@ -125,24 +128,21 @@ header {
 }
 
 @keyframes change{
-  0%
+  25%
   {
     background-image: url('/assets/img/title.jpg');
-  }
-  30%
-  {
-    background-image: url('/assets/img/title2.jpg');
   }
   50%
   {
-    background-image: url('/assets/img/title3.jpg');
+    background-image: url('/assets/img/title2.jpg');
   }
-  70%
+  75%
   {
-    background-image: url('/assets/img/title4.jpg');
+    background-image: url('/assets/img/title3.jpg');
   }
   100%
   {
-    background-image: url('/assets/img/title.jpg');
+    background-image: url('/assets/img/title4.jpg');
   }
+
 }
