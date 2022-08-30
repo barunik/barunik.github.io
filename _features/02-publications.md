@@ -172,6 +172,14 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Common Idiosyncratic Quantile Risk](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Nevrla)<br/>
+preprint draft (Sep 2022)<br/>
+
+**Abstract**: We propose a new model of asset returns with common factors that shift relevant parts of the stock return distributions. We show that shocks to such non-linear common movements in the panel of firm's idiosyncratic quantiles are priced in the cross-section of the US stock returns. Such risk premium is not subsumed by the common volatility, tail beta, downside beta, as well as other popular risk factors. Stocks with high loadings on past quantile risk in the left tail earn up to an annual five-factor alpha 7.4% higher than stocks with low tail risk loadings. Further, we show that quantile factors have predictive power for aggregate market returns.  <br/>
+code and package in Julia coming soon
+
+<br/>
+
 [Learning Probability Distributions in Macroeconomics and Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083719){:target="blank"} (with L.Hanus)<br/>
 preprint draft (Apr 2022)<br/>
 
@@ -272,15 +280,15 @@ Submitted (2020)<br/>
 
 <br/>
 
-Deep Reinforcement Learning for Dynamic Decision Making with Quantile Preferences (with L.Vacha)
+Locally Persisten Economic Time Series (L.Vacha)
+
+<br/>
+
+Deep Reinforcement Learning for Dynamic Decision Making with Quantile Preferences
 
 <br/>
 
 Asset Pricing with Quantile Machine Learning (with M.Hronec)
-
-<br/>
-
-Dynamic density forecasting using machine learning (with L.Hanus)
 
 <br/>
 
