@@ -172,7 +172,7 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
-[Common Idiosyncratic Quantile Risk](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Nevrla)<br/>
+[Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla)<br/>
 preprint draft (Sep 2022)<br/>
 
 **Abstract**: We propose a new model of asset returns with common factors that shift relevant parts of the stock return distributions. We show that shocks to such non-linear common movements in the panel of firm's idiosyncratic quantiles are priced in the cross-section of the US stock returns. Such risk premium is not subsumed by the common volatility, tail beta, downside beta, as well as other popular risk factors. Stocks with high loadings on past quantile risk in the left tail earn up to an annual five-factor alpha 7.4% higher than stocks with low tail risk loadings. Further, we show that quantile factors have predictive power for aggregate market returns.  <br/>
