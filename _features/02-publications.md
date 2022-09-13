@@ -16,7 +16,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 <br/>
 
 [Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
-**The Review of Economics and Statistics** (2021), 104(6): 1-13 <a href="https://doi.org/10.1162/rest_a_01003" target="blank"><i class="ai ai-doi ai"></i></a><br/>
+**The Review of Economics and Statistics** (2022), 104(6): 1-13 <a href="https://doi.org/10.1162/rest_a_01003" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 replication codes and data <a href="https://doi.org/10.7910/DVN/GSXAWW" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 <br/>
 
