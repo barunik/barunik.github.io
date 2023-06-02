@@ -172,11 +172,18 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
-[Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla)<br/>
-preprint draft (Sep 2022)<br/>
+[The Dynamic Persistence of Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467110){:target="blank"} (with L.Vacha)<br/>
+preprint draft (June 2023)<br/>
 
-**Abstract**: We propose a new model of asset returns with common factors that shift relevant parts of the stock return distributions. We show that shocks to such non-linear common movements in the panel of firm's idiosyncratic quantiles are priced in the cross-section of the US stock returns. Such risk premium is not subsumed by the common volatility, tail beta, downside beta, as well as other popular risk factors. Stocks with high loadings on past quantile risk in the left tail earn up to an annual five-factor alpha 7.4% higher than stocks with low tail risk loadings. Further, we show that quantile factors have predictive power for aggregate market returns.  <br/>
+**Abstract**: This paper presents a model for smoothly varying heterogeneous persistence of economic data. We argue that such dynamics arise naturally from the dynamic nature of economic shocks with various degree of persistence. The identification of such dynamics from data is done using localised regressions. Empirically, we identify rich persistence structures that change smoothly over time in two important data sets: inflation, which plays a key role in policy formulation, and stock volatility, which is crucial for risk and market analysis.  <br/>
 code and package in Julia coming soon
+
+<br/>
+
+[Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla)<br/>
+preprint draft (May 2023)<br/>
+
+**Abstract**: We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns. Our newly proposed quantile risk factor is associated with a quantile-specific risk premium and provides new insights into how upside and downside risks are priced by investors. In contrast to the previous lit- erature, we recover the common structure in cross-sectional quantiles without making confounding assumptions or aggregating potentially non-linear information. We dis- cuss how the new quantile-based risk factor differs from popular volatility and downside risk factors, and we identify where the quantile-dependent risks deserve greater com- pensation. Quantile factors also have predictive power for aggregate market returns.  <br/>
 
 <br/>
 
@@ -197,17 +204,10 @@ code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" ta
 
 <br/>
 
-[Frequency-Dependent Higher Moment Risks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3823002){:target="blank"} (with J.Kurka)<br/>
-preprint draft (April 2021)<br/>
-
-**Abstract**: Based on intraday data for a large cross-section of individual stocks and exchange traded funds, we show that short-term as well as long-term fluctuations of realized market and average idiosyncratic higher moments risks are priced in the cross-section of asset returns. Specifically, we find that market and average idiosyncratic volatility and kurtosis are significantly priced by investors mainly in the long-run even if controlled by market moments and other factors, while skewness is mostly short-run phenomenon. A conditional pricing model capturing the time-variation of moments confirms downward-sloping term structure of skewness risk and upward-sloping term structure of kurtosis risk, moreover the term structures connected to market skewness risk and average idiosyncratic skewness risk exhibit different dymanics. <br/>
-
-<br/>
-
 [Currency Network Risk](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021)<br/>
+preprint draft (May 2023)<br/>
 
-**Abstract**: This paper identifies new currency risk stemming from a network of idiosyncratic option-based currency volatilities and shows how such network risk is priced in the cross-section of currency returns. A portfolio that buys net-receivers and sells net-transmitters of short-term linkages between currency volatilities generates a significant Sharpe ratio. The network strategy formed on causal connections is uncorrelated with popular benchmarks and generates a significant alpha, while network returns formed on aggregate connections, which are driven by a strong correlation component, are partially subsumed by standard factors. Long-term linkages are priced less, indicating a downward-sloping term structure of network risk. <br/>
+**Abstract**: This paper identifies a new currency risk stemming from linkages between option-implied currency volatilities. A volatility network strategy that buys net recipients and sells net transmitters of transitory shocks to ex-ante currency volatilities generates significant excess returns. Net recipients are more exposed to volatility spillovers and compensate investors with higher average returns. In contrast, net transmitters are more resilient to volatility transmissions and offer a lower risk premium because they hedge against volatility interdependencies. When volatility linkages are controlled for contemporaneous correlations, the strategy is uncorrelated with popular benchmarks. The volatility network factor is also priced in a currency cross-section.<br/>
 
 The video below illustrates the short-term currency network during the Global Financial Crisis. If the video does not play properly, feel free to watch it [here](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fbg6uk6prpodwnuj%2FCurrency%2520Network.mp4%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEc2H1o7Yen4A_u-iPJZ7qFZOy1PQ).
 
@@ -233,6 +233,13 @@ preprint draft (July 2021) available<br/>
 
 **Abstract**: We study dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. Our results show statistically and economically significant benefits from using deep learning to form optimal portfolios through certainty equivalent returns and Sharpe ratios. We demonstrate that a long-short-term-memory recurrent neural network, which excels in learning complex time-series dependencies, generates a superior performance among a variety of networks considered. Return predictability via deep learning generates substantially improved portfolio performance across different subsamples, particularly during recessionary periods. These gains are robust to including transaction costs, short-selling and borrowing constraints. <br/>
 
+
+<br/>
+
+[Frequency-Dependent Higher Moment Risks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3823002){:target="blank"} (with J.Kurka)<br/>
+preprint draft (April 2021)<br/>
+
+**Abstract**: Based on intraday data for a large cross-section of individual stocks and exchange traded funds, we show that short-term as well as long-term fluctuations of realized market and average idiosyncratic higher moments risks are priced in the cross-section of asset returns. Specifically, we find that market and average idiosyncratic volatility and kurtosis are significantly priced by investors mainly in the long-run even if controlled by market moments and other factors, while skewness is mostly short-run phenomenon. A conditional pricing model capturing the time-variation of moments confirms downward-sloping term structure of skewness risk and upward-sloping term structure of kurtosis risk, moreover the term structures connected to market skewness risk and average idiosyncratic skewness risk exhibit different dymanics. <br/>
 
 <br/>
 
@@ -269,26 +276,8 @@ Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 <br/>
 
 
-[Investment Disputes and Abnormal Volatility of Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630279){:target="blank"} (with Z.Drabek and M.Nevrla)<br/>
-Submitted (2020)<br/>
 
-**Abstract**: Dramatic growth of investment disputes between foreign investors and host states rises serious questions about the impact of those disputes on investors. This paper is the first to explain increased uncertainty of investors about the outcome of arbitration, which may or may not lead to compensation for damages claimed by the investor. We find robust evidence that investment disputes lead to abnormal share fluctuations of companies involved in disputes with host countries. Importantly, while a positive outcome for an investor decreases uncertainty back to original levels, we document strong increase in the volatility of companies with negative outcome for the investor. We find that several variables including size of the award, political instability, location of arbitration, country of origin of investor or public policy considerations in host country explain large portion of the investor's uncertainty.
-
-<br/>
-
-### Work in Progress
-
-<br/>
-
-Locally Persisten Economic Time Series (L.Vacha)
-
-<br/>
-
-Deep Reinforcement Learning for Dynamic Decision Making with Quantile Preferences
-
-<br/>
-
-Asset Pricing with Quantile Machine Learning (with M.Hronec)
+### Unfinished
 
 <br/>
 
@@ -296,4 +285,10 @@ Tales of sentiment driven tails (with W.Hardle and C.Chen) [slides available](ht
 
 <br/>
 
-Horizon-specific risks, higher moments, and asset prices (with J.Kurka)
+
+[Investment Disputes and Abnormal Volatility of Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630279){:target="blank"} (with Z.Drabek and M.Nevrla)<br/>
+Submitted (2020)<br/>
+
+**Abstract**: Dramatic growth of investment disputes between foreign investors and host states rises serious questions about the impact of those disputes on investors. This paper is the first to explain increased uncertainty of investors about the outcome of arbitration, which may or may not lead to compensation for damages claimed by the investor. We find robust evidence that investment disputes lead to abnormal share fluctuations of companies involved in disputes with host countries. Importantly, while a positive outcome for an investor decreases uncertainty back to original levels, we document strong increase in the volatility of companies with negative outcome for the investor. We find that several variables including size of the award, political instability, location of arbitration, country of origin of investor or public policy considerations in host country explain large portion of the investor's uncertainty.
+
+<br/>
