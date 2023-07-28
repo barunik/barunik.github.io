@@ -221,7 +221,7 @@ code and package in Julia coming soon
 [Persistence in Economic Networks](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
 preprint draft (Oct 2021)<br/>
 
-Revise and resubmit, **European Journao of Operational Research** <br/>
+Revise and resubmit, **European Journal of Operational Research** <br/>
 
 **Abstract**: This paper studies heterogeneous network structures driven by different degrees of persistence in economic connections. Using frequency domain techniques, we introduce measures that characterize network connections stemming from transitory and persistent components of shocks. Our approach permits testing for statistical differences in such connections that evolve over time. We estimate uncertainty networks from the main US sectors and argue that they track transitory and persistent sources of systemic risk. Hence they may serve as a useful tool for macro-prudential supervisors and investors alike. <br/>
 code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
