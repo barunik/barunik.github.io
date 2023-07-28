@@ -16,6 +16,10 @@ image: "assets/img/team.jpg"
 
 **Matej Nevrla**: Tail risks, asset prices, and investment horizons
 
+**Lukas Janasek**: Quantile Deep Reinforcement Learning in Economics
+
+**Lenka Nechvatalova**: Deep Reinforcement Learning and Portfolio Management
+
 **Lubos Hanus** (joint supervision with L.Vacha) Dynamic density forecasting using machine learning
 
  <br/>
@@ -29,3 +33,5 @@ image: "assets/img/team.jpg"
 **Tomas Krehlik**: Applications of Modern Spectral Tools in Financial Econometrics
 
 **Jiri Kukacka**: Estimation of Financial Agent-Based Models
+
+**Barbora Gregor**: Three Essays on Data-Driven Methods in Asset Pricing and Forecasting

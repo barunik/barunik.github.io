@@ -183,29 +183,17 @@ code and package in Julia coming soon
 [Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla)<br/>
 preprint draft (May 2023)<br/>
 
-**Abstract**: We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns. Our newly proposed quantile risk factor is associated with a quantile-specific risk premium and provides new insights into how upside and downside risks are priced by investors. In contrast to the previous lit- erature, we recover the common structure in cross-sectional quantiles without making confounding assumptions or aggregating potentially non-linear information. We dis- cuss how the new quantile-based risk factor differs from popular volatility and downside risk factors, and we identify where the quantile-dependent risks deserve greater com- pensation. Quantile factors also have predictive power for aggregate market returns.  <br/>
+Revise and resubmit, **Review of Finance** <br/>
+
+**Abstract**: We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns. Our newly proposed quantile risk factor is associated with a quantile-specific risk premium and provides new insights into how upside and downside risks are priced by investors. In contrast to the previous literature, we recover the common structure in cross-sectional quantiles without making confounding assumptions or aggregating potentially non-linear information. We dis- cuss how the new quantile-based risk factor differs from popular volatility and downside risk factors, and we identify where the quantile-dependent risks deserve greater compensation. Quantile factors also have predictive power for aggregate market returns.  <br/>
 
 <br/>
 
-[Learning Probability Distributions in Macroeconomics and Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083719){:target="blank"} (with L.Hanus)<br/>
-preprint draft (Apr 2022)<br/>
-
-**Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
-code and package in Julia coming soon
-
-
-<br/>
-
-[Persistence in Economic Networks](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
-preprint draft (Oct 2021)<br/>
-
-**Abstract**: This paper studies heterogeneous network structures driven by different degrees of persistence in economic connections. Using frequency domain techniques, we introduce measures that characterize network connections stemming from transitory and persistent components of shocks. Our approach permits testing for statistical differences in such connections that evolve over time. We estimate uncertainty networks from the main US sectors and argue that they track transitory and persistent sources of systemic risk. Hence they may serve as a useful tool for macro-prudential supervisors and investors alike. <br/>
-code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
-
-<br/>
 
 [Currency Network Risk](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Babiak)<br/>
 preprint draft (May 2023)<br/>
+
+**Presented at** at 2023 WFA (San Francisco), 2023 SGF Conference (Zurich), 2023 EEA-ESEM (Barcelona) <br/>
 
 **Abstract**: This paper identifies a new currency risk stemming from linkages between option-implied currency volatilities. A volatility network strategy that buys net recipients and sells net transmitters of transitory shocks to ex-ante currency volatilities generates significant excess returns. Net recipients are more exposed to volatility spillovers and compensate investors with higher average returns. In contrast, net transmitters are more resilient to volatility transmissions and offer a lower risk premium because they hedge against volatility interdependencies. When volatility linkages are controlled for contemporaneous correlations, the strategy is uncorrelated with popular benchmarks. The volatility network factor is also priced in a currency cross-section.<br/>
 
@@ -221,8 +209,29 @@ The video below illustrates the short-term currency network during the Global Fi
 
 <br/>
 
+[Learning Probability Distributions in Macroeconomics and Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083719){:target="blank"} (with L.Hanus)<br/>
+preprint draft (Apr 2022)<br/>
+
+**Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
+code and package in Julia coming soon
+
+
+<br/>
+
+[Persistence in Economic Networks](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
+preprint draft (Oct 2021)<br/>
+
+Revise and resubmit, **European Journao of Operational Research** <br/>
+
+**Abstract**: This paper studies heterogeneous network structures driven by different degrees of persistence in economic connections. Using frequency domain techniques, we introduce measures that characterize network connections stemming from transitory and persistent components of shocks. Our approach permits testing for statistical differences in such connections that evolve over time. We estimate uncertainty networks from the main US sectors and argue that they track transitory and persistent sources of systemic risk. Hence they may serve as a useful tool for macro-prudential supervisors and investors alike. <br/>
+code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
+
+<br/>
+
 [Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
 preprint draft (March 2021)<br/>
+
+Revise and resubmit, **Journal of Economic Dynamics and Control** <br/>
 
 **Abstract**: We argue that uncertainty network structures extracted from option prices contain valuable information for business cycles. Classifying U.S. industries according to their contribution to system-related uncertainty across business cycles, we uncover an uncertainty hub role for the communications, industrials and information technology sectors, while shocks to materials, real estate and utilities do not create strong linkages in the network. Moreover, we find that this ex-ante network of uncertainty is a useful predictor of business cycles, especially when it is based on uncertainty hubs. The industry uncertainty network behaves counter-cyclically in that a tighter network tends to associate with future business cycle contractions. <br/>
 
@@ -243,6 +252,24 @@ preprint draft (April 2021)<br/>
 
 <br/>
 
+
+[Co-jumping of Treasury Yield Curve Rates](https://ideas.repec.org/p/arx/papers/1905.01541.html){:target="blank"} (with P.Fiser)<br/>
+Submitted (2019)<br/>
+
+**Abstract**: We study the role of co-jumps in the interest rate futures markets. To disentangle continuous part of quadratic covariation from co-jumps, we localize the co-jumps precisely through wavelet coefficients and identify statistically significant ones. Using high frequency data about U.S. and European yield curves we quantify the effect of co-jumps on their correlation structure. Empirical findings reveal much stronger co-jumping behavior of the U.S. yield curves in comparison to the European one. Further, we connect co-jumping behavior to the monetary policy announcements, and study effect of 103 FOMC and 119 ECB announcements on the identified co-jumps during the period from January 2007 to December 2017.
+
+<br/>
+
+Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcojumps" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+
+<br/>
+
+
+
+### Unfinished
+
+<br/>
+
 [Dynamic Network Risk](https://ideas.repec.org/p/arx/papers/2006.04639.html){:target="blank"} (with M.Ellington)<br/>
 submitted (2020)<br/>
 
@@ -260,24 +287,6 @@ Submitted (2019)<br/>
 
 codes to paper <a href="https://github.com/barunik/npmsle" target="blank"><i class="fas fa-keyboard"></i></a>
 
-
-<br/>
-
-
-[Co-jumping of Treasury Yield Curve Rates](https://ideas.repec.org/p/arx/papers/1905.01541.html){:target="blank"} (with P.Fiser)<br/>
-Submitted (2019)<br/>
-
-**Abstract**: We study the role of co-jumps in the interest rate futures markets. To disentangle continuous part of quadratic covariation from co-jumps, we localize the co-jumps precisely through wavelet coefficients and identify statistically significant ones. Using high frequency data about U.S. and European yield curves we quantify the effect of co-jumps on their correlation structure. Empirical findings reveal much stronger co-jumping behavior of the U.S. yield curves in comparison to the European one. Further, we connect co-jumping behavior to the monetary policy announcements, and study effect of 103 FOMC and 119 ECB announcements on the identified co-jumps during the period from January 2007 to December 2017.
-
-<br/>
-
-Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcojumps" target="blank"><i class="fas fa-keyboard"></i></a><br/>
-
-<br/>
-
-
-
-### Unfinished
 
 <br/>
 
