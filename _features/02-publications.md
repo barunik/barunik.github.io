@@ -240,6 +240,8 @@ Revise and resubmit, **Journal of Economic Dynamics and Control** <br/>
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
 preprint draft (July 2021) available<br/>
 
+Revise and resubmit, **Journal of Banking and Finance** <br/>
+
 **Abstract**: We study dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. Our results show statistically and economically significant benefits from using deep learning to form optimal portfolios through certainty equivalent returns and Sharpe ratios. We demonstrate that a long-short-term-memory recurrent neural network, which excels in learning complex time-series dependencies, generates a superior performance among a variety of networks considered. Return predictability via deep learning generates substantially improved portfolio performance across different subsamples, particularly during recessionary periods. These gains are robust to including transaction costs, short-selling and borrowing constraints. <br/>
 
 
