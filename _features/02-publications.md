@@ -172,6 +172,14 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Common Firm-level Investor Fears: Evidence from Equity Options](https://ssrn.com/abstract=4565218){:target="blank"} (with M.Bevilacqua and M.Ellington)<br/>
+preprint draft (Sept 2023)<br/>
+
+**Abstract**: We identify a new type of risk, common firm-level investor fears, from commonalities within the cross-sectional distribution of individual stock options. We define firm-level fears that link with upward price movements as good fears, and those relating to downward price movements as bad fears.  Such information is different to market fears that we extract from index options. Stocks with high sensitivities to common firm-level investor fears earn lower returns, with investors demanding a higher compensation for exposure to common bad fears relative to common good fears. Risk premium estimates for common bad fears range from -5.63% to -4.92% per annum.
+
+<br/>
+
+
 [The Dynamic Persistence of Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467110){:target="blank"} (with L.Vacha)<br/>
 preprint draft (June 2023)<br/>
 
