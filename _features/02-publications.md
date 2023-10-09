@@ -180,10 +180,10 @@ preprint draft (Sept 2023)<br/>
 <br/>
 
 
-[Learning Probability Distributions of Intraday Electricity Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592411){:target="blank"} (with L.Hanus)<br/>
+[Learning Probability Distributions of Day-Ahead Electricity Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592411){:target="blank"} (with L.Hanus)<br/>
 preprint draft (Oct 2023)<br/>
 
-**Abstract**: We propose a novel machine learning approach to probabilistic forecasting of hourly intraday electricity prices. In contrast to recent advances in data-rich probabilistic forecasting that approximate the distributions with some features such as moments, our method is non-parametric and selects the best distribution from all possible empirical distributions learned from the data. The model we propose is a multiple output neural network with a monotonicity adjusting penalty. Such a distributional neural network can learn complex patterns in electricity prices from data-rich environments and it outperforms state-of-the-art benchmarks.<br/>
+**Abstract**: We propose a novel machine learning approach to probabilistic forecasting of hourly day-ahead electricity prices. In contrast to recent advances in data-rich probabilistic forecasting that approximate the distributions with some features such as moments, our method is non-parametric and selects the best distribution from all possible empirical distributions learned from the data. The model we propose is a multiple output neural network with a monotonicity adjusting penalty. Such a distributional neural network can learn complex patterns in electricity prices from data-rich environments and it outperforms state-of-the-art benchmarks.<br/>
 
 code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.jl" target="blank"><i class="fas fa-keyboard"></i></a>
 
