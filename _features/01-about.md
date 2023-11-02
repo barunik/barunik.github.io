@@ -16,7 +16,7 @@ Jozef's work has appeared in the *Review of Economics and Statistics*, *Economet
 
 <br/>
 
-<a href="https://www.utia.cas.cz/files/Barunik_cv_2022.pdf" target="blank">
+<a href="https://www.utia.cas.cz/files/Barunik_cv_2023.pdf" target="blank">
   <i class="ai ai-cv-square ai-2x"></i></a>
-<a href="https://scholar.google.cz/citations?user=XDtEei4AAAAJ&hl=en" target="blank">
+<a href="https://scholar.google.com/citations?user=3sJOQAsAAAAJ&hl=en&authuser=1" target="blank">
   <i class="ai ai-google-scholar-square ai-2x"></i></a>

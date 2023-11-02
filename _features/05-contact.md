@@ -19,7 +19,7 @@ Prague 1, 110 00,Czech Republic
 
 <i class="fas fa-envelope"></i> barunik [AT] fsv [DOT] cuni [DOT] cz<br/>
 <i class="fas fa-phone-square"></i>  00 (420) 776 259273<br/>
-<i class="fas fa-home"></i> [http://ies.fsv.cuni.cz/en/staff/barunik](http://ies.fsv.cuni.cz/en/staff/barunik){:target="blank"}
+<i class="fas fa-home"></i> [https://ies.fsv.cuni.cz/en/contacts/people/29200599](https://ies.fsv.cuni.cz/en/contacts/people/29200599){:target="blank"}
 
 <br/>
 

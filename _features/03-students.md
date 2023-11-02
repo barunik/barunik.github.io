@@ -10,6 +10,8 @@ image: "assets/img/team.jpg"
 
 ### Current (Full-Time) Doctoral Students
 
+**Attila Sarkany**: Machine Learning in Finance
+
 **Josef Kurka**: Horizon-specific risks, higher moments, and asset prices
 
 **Martin Hronec**: Asset Pricing with Quantile Machine Learning
