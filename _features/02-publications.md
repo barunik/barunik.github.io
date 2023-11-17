@@ -15,14 +15,22 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
+[Persistence in Financial Connectedness and Systemic Risk](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
+**European Journal of Operational Research** (2024), forthcoming<br/>
+code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
+
+<br/>
+
+
+[Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
+**Journal of Financial Econometrics** (2023), Vol. 21, No. 5, pp. 1590–1646<br/>
+replication codes <a href="https://github.com/barunik/QSbeta" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+
+<br/>
+
 [Asymmetric Network Connectedness of Fears](https://ideas.repec.org/p/arx/papers/1810.12022.html){:target="blank"} (with M.Bevilacqua, and R.Tunaru)<br/>
 **The Review of Economics and Statistics** (2022), 104(6): 1-13 <a href="https://doi.org/10.1162/rest_a_01003" target="blank"><i class="ai ai-doi ai"></i></a><br/>
 replication codes and data <a href="https://doi.org/10.7910/DVN/GSXAWW" target="blank"><i class="fas fa-keyboard"></i></a><br/>
-<br/>
-
-[Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices](https://ideas.repec.org/p/arx/papers/1806.06148.html){:target="blank"} (with M.Nevrla)<br/>
-**Journal of Financial Econometrics** (2022), forthcoming<br/>
-replication codes <a href="https://github.com/barunik/QSbeta" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
 <br/>
 
@@ -233,16 +241,6 @@ preprint draft (Apr 2022)<br/>
 **Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
 code and package in Julia coming soon
 
-
-<br/>
-
-[Persistence in Economic Networks](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
-preprint draft (Oct 2021)<br/>
-
-Revise and resubmit, **European Journal of Operational Research** <br/>
-
-**Abstract**: This paper studies heterogeneous network structures driven by different degrees of persistence in economic connections. Using frequency domain techniques, we introduce measures that characterize network connections stemming from transitory and persistent components of shocks. Our approach permits testing for statistical differences in such connections that evolve over time. We estimate uncertainty networks from the main US sectors and argue that they track transitory and persistent sources of systemic risk. Hence they may serve as a useful tool for macro-prudential supervisors and investors alike. <br/>
-code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
 
