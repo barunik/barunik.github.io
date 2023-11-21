@@ -15,6 +15,12 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
+[Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
+**Journal of Economic Dynamics and Control** (2024), forthcoming (preprint draft March 2021)<br/>
+
+
+<br/>
+
 [Persistence in Financial Connectedness and Systemic Risk](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
 **European Journal of Operational Research** (2024), forthcoming<br/>
 code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
@@ -241,15 +247,6 @@ preprint draft (Apr 2022)<br/>
 **Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
 code and package in Julia coming soon
 
-
-<br/>
-
-[Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
-preprint draft (March 2021)<br/>
-
-Revise and resubmit, **Journal of Economic Dynamics and Control** <br/>
-
-**Abstract**: We argue that uncertainty network structures extracted from option prices contain valuable information for business cycles. Classifying U.S. industries according to their contribution to system-related uncertainty across business cycles, we uncover an uncertainty hub role for the communications, industrials and information technology sectors, while shocks to materials, real estate and utilities do not create strong linkages in the network. Moreover, we find that this ex-ante network of uncertainty is a useful predictor of business cycles, especially when it is based on uncertainty hubs. The industry uncertainty network behaves counter-cyclically in that a tighter network tends to associate with future business cycle contractions. <br/>
 
 <br/>
 
