@@ -186,6 +186,13 @@ Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publicatio
 
 <br/>
 
+[Moderation or indulgence? Effects of bank distribution restrictions during stress](https://www.bankofengland.co.uk/working-paper/2023/moderation-or-indulgence-effects-of-bank-distribution-restrictions-during-stress){:target="blank"} (with J.A. Smith, E.Gerba and P.Katsoulis)<br/>
+**Bank of England** Staff Working Paper No. 1 053 (Nov 2023)<br/>
+
+**Abstract**: At the onset of the Covid‑19 crisis, several regulatory authorities issued a recommendation or request to banks to restrict their dividend and share buyback distributions. The purpose of this action was to increase banks’ resilience by not distributing retained earnings, and help them support the real economy given their unique role in doing so. These restrictions reflected the singular circumstances brought by Covid‑19. We evaluate the impact of these restrictions on banks’ resilience, lending and investors’ required rate of return. First, using a difference‑in‑differences analysis on an international sample of European banks, we find that restricted banks increased their available Common Equity Tier 1 (CET1) capital and resilience in every quarter while the restrictions were fully in place, before gradually reducing it once they were partly lifted. Second, using a data set on the universe of UK small and medium‑sized enterprise (SME) loans issued by nine UK banking groups, we find that restricted banks increased their lending volumes on smaller non‑government guaranteed loans throughout the implementation period. Third, using the international sample of European banks, we find that the restrictions increased shareholders’ required rate of return throughout the implementation period, with the impact on the required rate of return on capital partially offset by lower debtholders’ required rate of return. The results indicate that distribution restrictions can be an effective crisis tool to increase banks’ resilience and lending capacity.
+
+<br/>
+
 [Common Firm-level Investor Fears: Evidence from Equity Options](https://ssrn.com/abstract=4565218){:target="blank"} (with M.Bevilacqua and M.Ellington)<br/>
 preprint draft (Sept 2023)<br/>
 
