@@ -1,6 +1,6 @@
 ---
 id: workingpapers
-name: Work in Progress
+name: WorkingPapers
 heading: Working Papers (Work in Progress)
 ---
 
@@ -11,8 +11,6 @@ heading: Working Papers (Work in Progress)
 code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></i></a>
 <br/>
 -->
-
-### Working Papers (Work in Progress)
 
 <br/>
 
