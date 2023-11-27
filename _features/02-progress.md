@@ -1,7 +1,7 @@
 ---
-id: workingpapers
-name: Research
-heading: Submitted Research
+id: submittedpapers
+name: Submissions
+heading: Submitted Publications
 ---
 
 <!--- USAGE: JUST FILL AND ADD THIS
@@ -12,15 +12,13 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 <br/>
 -->
 
-
 <br/>
 
 [The Dynamic Persistence of Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467110){:target="blank"} (with L.Vacha) preprint draft (June 2023)<br/> Revise and resubmit, **Review of Economics and Statistics**
 code and package in Julia coming soon
-
 <br/>
 
-[Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla) preprint draft (May 2023)<br/> Revise and resubmit, **Review of Finance** <br/>
+[Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla) preprint draft (May 2023)<br/> Revise and resubmit, **Review of Finance**
 
 <br/>
 
