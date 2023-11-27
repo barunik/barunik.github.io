@@ -1,6 +1,6 @@
 ---
 id: publications
-name: Research
+name: Publications
 heading: Selected Publications
 ---
 
@@ -16,7 +16,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 <br/>
 
 [Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
-**Journal of Economic Dynamics and Control** (2024), forthcoming<br/>
+**Journal of Economic Dynamics and Control** (2024), Vol. 1598, 104793<br/>
 
 
 <br/>
@@ -211,24 +211,6 @@ code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.j
 <br/>
 
 
-[The Dynamic Persistence of Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467110){:target="blank"} (with L.Vacha)<br/>
-preprint draft (June 2023)<br/>
-
-**Abstract**: This paper presents a model for smoothly varying heterogeneous persistence of economic data. We argue that such dynamics arise naturally from the dynamic nature of economic shocks with various degree of persistence. The identification of such dynamics from data is done using localised regressions. Empirically, we identify rich persistence structures that change smoothly over time in two important data sets: inflation, which plays a key role in policy formulation, and stock volatility, which is crucial for risk and market analysis.  <br/>
-code and package in Julia coming soon
-
-<br/>
-
-[Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla)<br/>
-preprint draft (May 2023)<br/>
-
-Revise and resubmit, **Review of Finance** <br/>
-
-**Abstract**: We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns. Our newly proposed quantile risk factor is associated with a quantile-specific risk premium and provides new insights into how upside and downside risks are priced by investors. In contrast to the previous literature, we recover the common structure in cross-sectional quantiles without making confounding assumptions or aggregating potentially non-linear information. We dis- cuss how the new quantile-based risk factor differs from popular volatility and downside risk factors, and we identify where the quantile-dependent risks deserve greater compensation. Quantile factors also have predictive power for aggregate market returns.  <br/>
-
-<br/>
-
-
 [Currency Network Risk](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Babiak)<br/>
 preprint draft (May 2023)<br/>
 
@@ -253,16 +235,6 @@ preprint draft (Apr 2022)<br/>
 
 **Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
 code and package in Julia coming soon
-
-
-<br/>
-
-[Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021) available<br/>
-
-Revise and resubmit, **Journal of Banking and Finance** <br/>
-
-**Abstract**: We study dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. Our results show statistically and economically significant benefits from using deep learning to form optimal portfolios through certainty equivalent returns and Sharpe ratios. We demonstrate that a long-short-term-memory recurrent neural network, which excels in learning complex time-series dependencies, generates a superior performance among a variety of networks considered. Return predictability via deep learning generates substantially improved portfolio performance across different subsamples, particularly during recessionary periods. These gains are robust to including transaction costs, short-selling and borrowing constraints. <br/>
 
 
 <br/>
