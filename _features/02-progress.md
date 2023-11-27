@@ -16,6 +16,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 [The Dynamic Persistence of Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467110){:target="blank"} (with L.Vacha) preprint draft (June 2023)<br/> Revise and resubmit, **Review of Economics and Statistics**
 code and package in Julia coming soon
+
 <br/>
 
 [Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla) preprint draft (May 2023)<br/> Revise and resubmit, **Review of Finance**
@@ -23,5 +24,6 @@ code and package in Julia coming soon
 <br/>
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021), Revise and resubmit, **Journal of Banking and Finance** <br/>
- <br/>
+preprint draft (July 2021), Revise and resubmit, **Journal of Banking and Finance**
+
+<br/>
