@@ -25,5 +25,3 @@ code and package in Julia coming soon
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
 preprint draft (July 2021), Revise and resubmit, **Journal of Banking and Finance**
-
-<br/>
