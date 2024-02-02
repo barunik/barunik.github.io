@@ -14,12 +14,12 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[The Dynamic Persistence of Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467110){:target="blank"} (with L.Vacha) preprint draft (June 2023)<br/> Revise and resubmit, **Review of Economics and Statistics**<br/>
+[The Dynamic Persistence of Economic Shocks](https://ideas.repec.org/p/arx/papers/2306.01511.html){:target="blank"} (with L.Vacha) preprint draft (June 2023)<br/> Revise and resubmit, **Review of Economics and Statistics**<br/>
 replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
 <br/>
 
-[Common Idiosyncratic Quantile Risk](https://arxiv.org/abs/2208.14267){:target="blank"} (with M.Nevrla) preprint draft (May 2023)<br/> Revise and resubmit, **Review of Finance**
+[Common Idiosyncratic Quantile Risk](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (May 2023)<br/> Revise and resubmit, **Review of Finance**
 
 <br/>
 

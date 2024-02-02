@@ -28,7 +28,7 @@ replication code and package in Julia <a href="https://github.com/barunik/tvPers
 
 <br/>
 
-[Common Firm-level Investor Fears: Evidence from Equity Options](https://ssrn.com/abstract=4565218){:target="blank"} (with M.Bevilacqua and M.Ellington)<br/>
+[Common Firm-level Investor Fears: Evidence from Equity Options](https://ideas.repec.org/p/arx/papers/2309.03968.html){:target="blank"} (with M.Bevilacqua and M.Ellington)<br/>
 preprint draft (Sept 2023)<br/>
 
 **Abstract**: We identify a new type of risk, common firm-level investor fears, from commonalities within the cross-sectional distribution of individual stock options. We define firm-level fears that link with upward price movements as good fears, and those relating to downward price movements as bad fears.  Such information is different to market fears that we extract from index options. Stocks with high sensitivities to common firm-level investor fears earn lower returns, with investors demanding a higher compensation for exposure to common bad fears relative to common good fears. Risk premium estimates for common bad fears range from -5.63% to -4.92% per annum.
@@ -65,7 +65,7 @@ The video below illustrates the short-term currency network during the Global Fi
 
 <br/>
 
-[Learning Probability Distributions in Macroeconomics and Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083719){:target="blank"} (with L.Hanus)<br/>
+[Learning Probability Distributions in Macroeconomics and Finance](https://ideas.repec.org/p/arx/papers/2204.06848.html){:target="blank"} (with L.Hanus)<br/>
 preprint draft (Apr 2022)<br/>
 
 **Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
