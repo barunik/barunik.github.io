@@ -14,8 +14,8 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[The Dynamic Persistence of Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467110){:target="blank"} (with L.Vacha) preprint draft (June 2023)<br/> Revise and resubmit, **Review of Economics and Statistics**
-code and package in Julia coming soon
+[The Dynamic Persistence of Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467110){:target="blank"} (with L.Vacha) preprint draft (June 2023)<br/> Revise and resubmit, **Review of Economics and Statistics**<br/>
+replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
 <br/>
 
