@@ -14,6 +14,12 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
+[Forecasting Volatility of Oil-based Commodities: The Model of Dynamic Persistence](tba){:target="blank"} (with L.Vacha) preprint draft (February 2024)<br/>
+replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+
+
+<br/>
+
 [Moderation or indulgence? Effects of bank distribution restrictions during stress](https://www.bankofengland.co.uk/working-paper/2023/moderation-or-indulgence-effects-of-bank-distribution-restrictions-during-stress){:target="blank"} (with J.A. Smith, E.Gerba and P.Katsoulis)<br/>
 **Bank of England** Staff Working Paper No. 1 053 (Nov 2023)<br/>
 
@@ -71,55 +77,5 @@ code and package in Julia coming soon
 preprint draft (April 2021)<br/>
 
 **Abstract**: Based on intraday data for a large cross-section of individual stocks and exchange traded funds, we show that short-term as well as long-term fluctuations of realized market and average idiosyncratic higher moments risks are priced in the cross-section of asset returns. Specifically, we find that market and average idiosyncratic volatility and kurtosis are significantly priced by investors mainly in the long-run even if controlled by market moments and other factors, while skewness is mostly short-run phenomenon. A conditional pricing model capturing the time-variation of moments confirms downward-sloping term structure of skewness risk and upward-sloping term structure of kurtosis risk, moreover the term structures connected to market skewness risk and average idiosyncratic skewness risk exhibit different dymanics. <br/>
-
-<br/>
-
-
-[Co-jumping of Treasury Yield Curve Rates](https://ideas.repec.org/p/arx/papers/1905.01541.html){:target="blank"} (with P.Fiser)<br/>
-Submitted (2019)<br/>
-
-**Abstract**: We study the role of co-jumps in the interest rate futures markets. To disentangle continuous part of quadratic covariation from co-jumps, we localize the co-jumps precisely through wavelet coefficients and identify statistically significant ones. Using high frequency data about U.S. and European yield curves we quantify the effect of co-jumps on their correlation structure. Empirical findings reveal much stronger co-jumping behavior of the U.S. yield curves in comparison to the European one. Further, we connect co-jumping behavior to the monetary policy announcements, and study effect of 103 FOMC and 119 ECB announcements on the identified co-jumps during the period from January 2007 to December 2017.
-
-<br/>
-
-Codes for introduced measures <a href="https://github.com/FiserPavel/waveletcojumps" target="blank"><i class="fas fa-keyboard"></i></a><br/>
-
-<br/>
-
-
-
-### Unfinished
-
-<br/>
-
-[Dynamic Network Risk](https://ideas.repec.org/p/arx/papers/2006.04639.html){:target="blank"} (with M.Ellington)<br/>
-submitted (2020)<br/>
-
-**Abstract**: This paper examines the pricing of short-term and long-term dynamic network risk in the cross-section of stock returns. Stocks with high sensitivities to dynamic network risk earn lower returns. We rationalize our finding with economic theory that allows the stochastic discount factor to load on network risk through the precautionary savings channel. A one-standard deviation increase in long-term (short-term) network risk loadings associate with a 7.66% (6.71%) drop in annualized expected returns.<br/>
-code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
-
-<br/>
-
-[Sentiment-Driven Stochastic Volatility Model: A High-Frequency Textual Tool for Economists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397314){:target="blank"} (with Cathy Yi-Hsuan Chen, and J.Vecer)<br/>
-Submitted (2019)<br/>
-
-**Abstract**: We propose how to quantify high-frequency market sentiment using high-frequency news from NASDAQ news platform and support vector machine classifiers. News arrive at markets randomly and the resulting news sentiment behaves like a stochastic process. To characterize the joint evolution of sentiment, price, and volatility, we introduce a unified continuous-time sentiment-driven stochastic volatility model. We provide closed-form formulas for moments of the volatility and news sentiment processes and study the news impact. Further, we implement a simulation-based method to calibrate the parameters. Empirically, we document that news sentiment raises the threshold of volatility reversion, sustaining high market volatility.
-
-<br/>
-
-codes to paper <a href="https://github.com/barunik/npmsle" target="blank"><i class="fas fa-keyboard"></i></a>
-
-
-<br/>
-
-Tales of sentiment driven tails (with W.Hardle and C.Chen) [slides available](https://www.wiwi.hu-berlin.de/de/forschung/irtg/lvb/members/personalpages/wh/talks/20181124-bar-che-hae-tale-of-tail-events.pdf)
-
-<br/>
-
-
-[Investment Disputes and Abnormal Volatility of Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630279){:target="blank"} (with Z.Drabek and M.Nevrla)<br/>
-Submitted (2020)<br/>
-
-**Abstract**: Dramatic growth of investment disputes between foreign investors and host states rises serious questions about the impact of those disputes on investors. This paper is the first to explain increased uncertainty of investors about the outcome of arbitration, which may or may not lead to compensation for damages claimed by the investor. We find robust evidence that investment disputes lead to abnormal share fluctuations of companies involved in disputes with host countries. Importantly, while a positive outcome for an investor decreases uncertainty back to original levels, we document strong increase in the volatility of companies with negative outcome for the investor. We find that several variables including size of the award, political instability, location of arbitration, country of origin of investor or public policy considerations in host country explain large portion of the investor's uncertainty.
 
 <br/>
