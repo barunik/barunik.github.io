@@ -14,7 +14,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Forecasting Volatility of Oil-based Commodities: The Model of Dynamic Persistence](tba){:target="blank"} (with L.Vacha) preprint draft (February 2024)<br/>
+[Forecasting Volatility of Oil-based Commodities: The Model of Dynamic Persistence](https://arxiv.org/pdf/2402.01354.pdf){:target="blank"} (with L.Vacha) preprint draft (February 2024)<br/>
 replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
 **Abstract**: Time variation and persistence are crucial properties of volatility that are often studied separately in oil-based volatility forecasting models. Here, we propose a novel approach that allows shocks with heterogeneous persistence to vary smoothly over time, and thus model the two together. We argue that this is important because such dynamics arise naturally from the dynamic nature of shocks in oil-based commodities. We identify such dynamics from the data using localised regressions and build a model that significantly improves volatility forecasts. Such forecasting models, based on a rich persistence structure that varies smoothly over time, outperform state-of-the-art benchmark models and are particularly useful for forecasting over longer horizons.
