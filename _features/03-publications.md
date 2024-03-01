@@ -21,7 +21,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Persistence in Financial Connectedness and Systemic Risk](https://ideas.repec.org/p/arx/papers/2007.07842.html){:target="blank"} (with M.Ellington)<br/>
+[Persistence in Financial Connectedness and Systemic Risk](https://ideas.repec.org/a/eee/ejores/v314y2024i1p393-407.html){:target="blank"} (with M.Ellington)<br/>
 **European Journal of Operational Research** (2024), forthcoming<br/>
 code and package in Julia <a href="https://github.com/barunik/DynamicNets.jl" target="blank"><i class="fas fa-keyboard"></i></a> and Matlab <a href="https://github.com/mte00/DynamicNets" target="blank"><i class="fas fa-keyboard"></i></a>
 
