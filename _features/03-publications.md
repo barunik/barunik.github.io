@@ -16,7 +16,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 <br/>
 
 [Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
-**Journal of Economic Dynamics and Control** (2024), Vol. 1598, 104793<br/>
+**Journal of Economic Dynamics & Control** (2024), Vol. 1598, 104793<br/>
 
 
 <br/>
