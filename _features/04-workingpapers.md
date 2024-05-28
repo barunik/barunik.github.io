@@ -71,10 +71,10 @@ The video below illustrates the short-term currency network during the Global Fi
 
 <br/>
 
-[Learning Probability Distributions in Macroeconomics and Finance](https://ideas.repec.org/p/arx/papers/2204.06848.html){:target="blank"} (with L.Hanus)<br/>
-preprint draft (Apr 2022)<br/>
+[Taming data-driven probability distributions](https://ideas.repec.org/p/arx/papers/2204.06848.html){:target="blank"} (with L.Hanus)<br/>
+preprint draft (May 2024)<br/>
 
-**Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
+**Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. By allowing complex time series patterns to be learned from a data-rich environment, our approach is useful for decision making that depends on the uncertainty of a large number of economic outcomes. In particular, it is informative for agents facing asymmetric dependence of their loss on the outcomes of possibly non-Gaussian and non-linear variables. We demonstrate the usefulness of the proposed approach on two different datasets where a machine learns patterns from the data. First, we illustrate the gains in predicting stock return distributions that are heavy tailed and asymmetric. Second, we construct macroeconomic fan charts that reflect information from a high-dimensional dataset.  <br/>
 code and package in Julia coming soon
 
 
