@@ -20,10 +20,10 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Forecasting Volatility of Oil-based Commodities: The Model of Dynamic Persistence](https://ideas.repec.org/p/arx/papers/2402.01354.html){:target="blank"} (with L.Vacha) preprint draft (February 2024)<br/>
+[Predicting the volatility of major energy commodity prices: the dynamic persistence model](https://ideas.repec.org/p/arx/papers/2402.01354.html){:target="blank"} (with L.Vacha) revised draft (July 2024)<br/>Revise and resubmit, **Energy Economics**<br/>
 replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
-**Abstract**: Time variation and persistence are crucial properties of volatility that are often studied separately in oil-based volatility forecasting models. Here, we propose a novel approach that allows shocks with heterogeneous persistence to vary smoothly over time, and thus model the two together. We argue that this is important because such dynamics arise naturally from the dynamic nature of shocks in oil-based commodities. We identify such dynamics from the data using localised regressions and build a model that significantly improves volatility forecasts. Such forecasting models, based on a rich persistence structure that varies smoothly over time, outperform state-of-the-art benchmark models and are particularly useful for forecasting over longer horizons.
+**Abstract**: Time variation and persistence are crucial properties of volatility that are often studied separately in energy volatility forecasting models. Here, we propose a novel approach that allows shocks with heterogeneous persistence to vary smoothly over time, and thus model the two together. We argue that this is important because such dynamics arise naturally from the dynamic nature of shocks in energy commodities. We identify such dynamics from the data using localised regressions and build a model that significantly improves volatility forecasts. Such forecasting models, based on a rich persistence structure that varies smoothly over time, outperform state-of-the-art benchmark models and are particularly useful for forecasting over longer horizons.
 
 <br/>
 
@@ -71,10 +71,10 @@ The video below illustrates the short-term currency network during the Global Fi
 
 <br/>
 
-[Learning Probability Distributions in Macroeconomics and Finance](https://ideas.repec.org/p/arx/papers/2204.06848.html){:target="blank"} (with L.Hanus)<br/>
-preprint draft (Apr 2022)<br/>
+[Taming data-driven probability distributions](https://ideas.repec.org/p/arx/papers/2204.06848.html){:target="blank"} (with L.Hanus)<br/>
+preprint draft (May 2024)<br/>
 
-**Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. Being able to learn complex patterns from a data rich environment, our approach is useful for a decision making that depends on uncertainty of large number of economic outcomes. Specifically, it is informative to agents facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the proposed approach on the two distinct datasets where a machine learns the pattern from data. First, we construct macroeconomic fan charts that reflect information from high-dimensional data set. Second, we illustrate gains in prediction of stock return distributions which are heavy tailed, asymmetric and suffer from low signal-to-noise ratio.  <br/>
+**Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. By allowing complex time series patterns to be learned from a data-rich environment, our approach is useful for decision making that depends on the uncertainty of a large number of economic outcomes. In particular, it is informative for agents facing asymmetric dependence of their loss on the outcomes of possibly non-Gaussian and non-linear variables. We demonstrate the usefulness of the proposed approach on two different datasets where a machine learns patterns from the data. First, we illustrate the gains in predicting stock return distributions that are heavy tailed and asymmetric. Second, we construct macroeconomic fan charts that reflect information from a high-dimensional dataset.  <br/>
 code and package in Julia coming soon
 
 
