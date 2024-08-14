@@ -14,6 +14,16 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
+[Predicting the distributions of stock returns around the globe in the era of big data and learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2024)<br/>
+
+**Abstract**: This paper presents a method for accurately predicting the full distribution of stock returns, given a comprehensive set of 194 stock characteristics and market variables. Such distributions, learned from rich data using a machine learning algorithm, are not constrained by restrictive model assumptions and allow the exploration of non-Gaussian, heavy-tailed data and their non-linear interactions. The method uses a two-stage quantile neural network combined with spline interpolation. The results show that the proposed approach outperforms alternative models in terms of out-of-sample losses. Furthermore, we show that the moments derived from such distributions can be useful as alternative empirical estimates in many cases, including mean estimation and forecasting. Finally, we examine the relationship between cross-sectional returns and several distributional characteristics. The results are robust to a wide range of US and international data.
+
+<br/>
+
+![svg](/files/Fig_plot3d.png)
+
+<br/>
+
 [Quantile Preferences in Portfolio Choice: A Q-DRL 1 Approach to Dynamic Diversification](https://ideas.repec.org/p/fau/wpaper/wp2024_21.html){:target="blank"} (with A.Sarkany and L.Janasek) (May 2024)<br/>
 
 **Abstract**: We develop a novel approach to understand the dynamic diversification of decision makers with quantile preferences. Due to unavailability of analytical solutions to such complex problems, we suggest to approximate the behavior of agents with a Quantile Deep Reinforcement Learning (Q-DRL) algorithm. The research will provide a new level of understanding the behavior of economic agents with respect to preferences, captured by quantiles, without assuming a specific utility function or distribution of returns. Furthermore, we are challenging the traditional diversification methods as they proved to be insufficient due to heightened correlations and similar risk features between asset classes, and rather the research delves into risk factor investing as a solution and portfolio optimization based on them.
