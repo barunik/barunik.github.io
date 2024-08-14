@@ -12,21 +12,21 @@ image: "assets/img/team.jpg"
 
 **Attila Sarkany**: Machine Learning in Finance
 
+**Lukas Janasek**: Quantile Deep Reinforcement Learning in Economics
+
 **Josef Kurka**: Horizon-specific risks, higher moments, and asset prices
 
 **Martin Hronec**: Asset Pricing with Quantile Machine Learning
 
-**Matej Nevrla**: Tail risks, asset prices, and investment horizons
-
-**Lukas Janasek**: Quantile Deep Reinforcement Learning in Economics
-
 **Lenka Nechvatalova**: Deep Reinforcement Learning and Portfolio Management
-
-**Lubos Hanus** (joint supervision with L.Vacha) Dynamic density forecasting using machine learning
 
  <br/>
 
 ### Past Doctoral Students
+
+**Matej Nevrla**: Tail risks, asset prices, and investment horizons
+
+**Lubos Hanus** (joint supervision with L.Vacha) Dynamic density forecasting using machine learning
 
 **Krenar Avdulaj**: Essays in Financial Econometrics
 

@@ -20,7 +20,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-![svg](/files/Fig_plot3d.png)
+<img src="/files/Fig_plot3d.png" alt="drawing" style="width:200px;"/>
 
 <br/>
 
