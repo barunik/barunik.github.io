@@ -30,13 +30,6 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Predicting the volatility of major energy commodity prices: the dynamic persistence model](https://ideas.repec.org/p/arx/papers/2402.01354.html){:target="blank"} (with L.Vacha) revised draft (July 2024)<br/>Revise and resubmit, **Energy Economics**<br/>
-replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
-
-**Abstract**: Time variation and persistence are crucial properties of volatility that are often studied separately in energy volatility forecasting models. Here, we propose a novel approach that allows shocks with heterogeneous persistence to vary smoothly over time, and thus model the two together. We argue that this is important because such dynamics arise naturally from the dynamic nature of shocks in energy commodities. We identify such dynamics from the data using localised regressions and build a model that significantly improves volatility forecasts. Such forecasting models, based on a rich persistence structure that varies smoothly over time, outperform state-of-the-art benchmark models and are particularly useful for forecasting over longer horizons.
-
-<br/>
-
 ["Who's the Boss?"" The Role of Shareholders in Banks' Lending Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972832){:target="blank"} (with P.Katsoulis, E.Gerba and J.A. Smith)<br/>
 preprint draft (Oct 2024)<br/>
 
@@ -48,16 +41,6 @@ preprint draft (Oct 2024)<br/>
 preprint draft (Sept 2023)<br/>
 
 **Abstract**: We identify a new type of risk, common firm-level investor fears, from commonalities within the cross-sectional distribution of individual stock options. We define firm-level fears that link with upward price movements as good fears, and those relating to downward price movements as bad fears.  Such information is different to market fears that we extract from index options. Stocks with high sensitivities to common firm-level investor fears earn lower returns, with investors demanding a higher compensation for exposure to common bad fears relative to common good fears. Risk premium estimates for common bad fears range from -5.63% to -4.92% per annum.
-
-<br/>
-
-
-[Learning Probability Distributions of Day-Ahead Electricity Prices](https://ideas.repec.org/p/arx/papers/2310.02867.html){:target="blank"} (with L.Hanus)<br/>
-preprint draft (Oct 2023)<br/>
-
-**Abstract**: We propose a novel machine learning approach to probabilistic forecasting of hourly day-ahead electricity prices. In contrast to recent advances in data-rich probabilistic forecasting that approximate the distributions with some features such as moments, our method is non-parametric and selects the best distribution from all possible empirical distributions learned from the data. The model we propose is a multiple output neural network with a monotonicity adjusting penalty. Such a distributional neural network can learn complex patterns in electricity prices from data-rich environments and it outperforms state-of-the-art benchmarks.<br/>
-
-code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.jl" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
 
@@ -81,18 +64,5 @@ The video below illustrates the short-term currency network during the Global Fi
 
 <br/>
 
-[Taming data-driven probability distributions](https://ideas.repec.org/p/arx/papers/2204.06848.html){:target="blank"} (with L.Hanus)<br/>
-preprint draft (May 2024)<br/>
-
-**Abstract**: We propose a deep learning approach to probabilistic forecasting of macroeconomic and financial time series. By allowing complex time series patterns to be learned from a data-rich environment, our approach is useful for decision making that depends on the uncertainty of a large number of economic outcomes. In particular, it is informative for agents facing asymmetric dependence of their loss on the outcomes of possibly non-Gaussian and non-linear variables. We demonstrate the usefulness of the proposed approach on two different datasets where a machine learns patterns from the data. First, we illustrate the gains in predicting stock return distributions that are heavy tailed and asymmetric. Second, we construct macroeconomic fan charts that reflect information from a high-dimensional dataset.  <br/>
-code and package in Julia coming soon
-
-
-<br/>
-
-[Risks of heterogeneously persistent higher moments](https://ideas.repec.org/p/arx/papers/2104.04264.html){:target="blank"} (with J.Kurka)<br/>
-preprint draft (March 2024)<br/>
-
-**Abstract**: Using intraday data for the cross-section of individual stocks, we show that both transitory and persistent fluctuations in realized market and average idiosyncratic volatility, skewness and kurtosis are differentially priced in the cross-section of asset returns, implying a heterogeneous persistence structure of different sources of higher moment risks. Specifically, we find that idiosyncratic transitory shocks to volatility as well as idiosyncratic persistent shocks to skewness contain strong commonalities that are relevant to investors. <br/>
-
-<br/>
+[Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
+preprint draft (July 2021), Revise and resubmit, **Journal of Banking and Finance**
