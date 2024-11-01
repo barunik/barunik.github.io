@@ -19,7 +19,7 @@ replication code and package in Julia <a href="https://github.com/barunik/tvPers
 
 <br/>
 
-[Common Idiosyncratic Quantile Risk](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (May 2023)<br/> Revise and resubmit, **Review of Finance**
+[Common Idiosyncratic Quantile Risk](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Oct 2024)<br/> Revise and resubmit, **Review of Finance**
 
 <br/>
 
