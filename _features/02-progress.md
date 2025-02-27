@@ -35,3 +35,7 @@ code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.j
 <img src="/files/Fig_plot3d.png" alt="drawing" style="width:600px;"/>
 
 <br/>
+
+[Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
+preprint draft (July 2021)
+<br/>

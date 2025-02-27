@@ -53,8 +53,3 @@ The video below illustrates the short-term currency network during the Global Fi
   </video>
 </figure>
 <!-- blank line -->
-
-<br/>
-
-[Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021)
