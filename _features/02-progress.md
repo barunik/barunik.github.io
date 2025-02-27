@@ -19,7 +19,7 @@ replication code and package in Julia <a href="https://github.com/barunik/tvPers
 
 <br/>
 
-[Common Idiosyncratic Quantile Risk](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Oct 2024)<br/> Revise and resubmit, **Review of Finance**
+[Common Idiosyncratic Quantile Risk](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Oct 2024)<br/>
 
 <br/>
 
@@ -28,5 +28,10 @@ code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.j
 
 <br/>
 
-[Predicting the volatility of major energy commodity prices: the dynamic persistence model](https://ideas.repec.org/p/arx/papers/2402.01354.html){:target="blank"} (with L.Vacha) revised draft (July 2024)<br/>Revise and resubmit, **Energy Economics**<br/>
-replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+[Predicting the distributions of stock returns around the globe in the era of big data and learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2024)<br/>Revise and resubmit, **International Journal of Forecasting**
+
+<br/>
+
+<img src="/files/Fig_plot3d.png" alt="drawing" style="width:600px;"/>
+
+<br/>

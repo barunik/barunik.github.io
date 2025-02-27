@@ -15,6 +15,11 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
+[Predicting the volatility of major energy commodity prices: the dynamic persistence model](https://ideas.repec.org/p/arx/papers/2402.01354.html){:target="blank"} (with L.Vacha)<br/>**Energy Economics** (2024), Vol. 140, 107982<br/>
+replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
+
+<br/>
+
 [Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
 **Journal of Economic Dynamics & Control** (2024), Vol. 1598, 104793<br/>
 

@@ -14,15 +14,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Predicting the distributions of stock returns around the globe in the era of big data and learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2024)<br/>
 
-**Abstract**: This paper presents a method for accurately predicting the full distribution of stock returns, given a comprehensive set of 194 stock characteristics and market variables. Such distributions, learned from rich data using a machine learning algorithm, are not constrained by restrictive model assumptions and allow the exploration of non-Gaussian, heavy-tailed data and their non-linear interactions. The method uses a two-stage quantile neural network combined with spline interpolation. The results show that the proposed approach outperforms alternative models in terms of out-of-sample losses. Furthermore, we show that the moments derived from such distributions can be useful as alternative empirical estimates in many cases, including mean estimation and forecasting. Finally, we examine the relationship between cross-sectional returns and several distributional characteristics. The results are robust to a wide range of US and international data.
-
-<br/>
-
-<img src="/files/Fig_plot3d.png" alt="drawing" style="width:600px;"/>
-
-<br/>
 
 [Quantile Preferences in Portfolio Choice: A Q-DRL 1 Approach to Dynamic Diversification](https://ideas.repec.org/p/fau/wpaper/wp2024_21.html){:target="blank"} (with A.Sarkany and L.Janasek) (May 2024)<br/>
 
@@ -65,4 +57,4 @@ The video below illustrates the short-term currency network during the Global Fi
 <br/>
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021), Revise and resubmit, **Journal of Banking and Finance**
+preprint draft (July 2021)
