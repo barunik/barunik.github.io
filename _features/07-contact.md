@@ -32,7 +32,7 @@ Prague 8, 182 08,Czech Republic
 
 <i class="fas fa-envelope"></i>  barunik [AT] utia [DOT] cas [DOT] cz<br/>
 <i class="fas fa-phone-square"></i> 00 (420) 776 259273<br/>
-<i class="fas fa-home"></i> [https://www.utia.cas.cz/people/barunik](https://www.utia.cas.cz/people/barunik){:target="blank"}
+<i class="fas fa-home"></i> [https://www.utia.cas.cz/people/barunik](https://www.utia.cas.cz){:target="blank"}
 
 <br/>
 

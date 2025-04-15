@@ -18,7 +18,7 @@ Jozef's **research has appeared** in the *Review of Economics and Statistics*, *
 
 <br/>
 
-<a href="https://www.utia.cas.cz/files/Barunik_cv_2023.pdf" target="blank">
+<a href="https://barunik.github.io/files/Barunik_cv_2025.pdf" target="blank">
   <i class="ai ai-cv-square ai-2x"></i></a>
 <a href="https://scholar.google.com/citations?user=3sJOQAsAAAAJ&hl=en&authuser=1" target="blank">
   <i class="ai ai-google-scholar-square ai-2x"></i></a>
