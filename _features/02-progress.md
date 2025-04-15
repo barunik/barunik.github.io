@@ -14,7 +14,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[The Dynamic Persistence of Economic Shocks](https://ideas.repec.org/p/arx/papers/2306.01511.html){:target="blank"} (with L.Vacha) preprint draft (June 2023)<br/> Revise and resubmit, **Review of Economics and Statistics**<br/>
+[The Dynamic Persistence of Economic Shocks](https://ideas.repec.org/p/arx/papers/2306.01511.html){:target="blank"} (with L.Vacha) preprint draft (June 2023 - updated version soon online)<br/> Conditionally accepted, **Review of Economics and Statistics**<br/>
 replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
 <br/>
@@ -37,5 +37,5 @@ code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.j
 <br/>
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021)
+preprint draft (July 2021 - updated version soon online) <br/>Revise and resubmit, **Journal of Empirical Finance**<br/>
 <br/>
