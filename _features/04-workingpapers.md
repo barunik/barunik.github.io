@@ -1,6 +1,6 @@
 ---
 id: workingpapers
-name: WorkingPapers
+name: WorkinProgress
 heading: Working Papers (Work in Progress)
 ---
 

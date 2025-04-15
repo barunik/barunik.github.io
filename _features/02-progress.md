@@ -1,7 +1,7 @@
 ---
 id: submittedpapers
-name: Submissions
-heading: Submitted Publications
+name: Working papers
+heading: Working papers (under submission or R&R)
 ---
 
 <!--- USAGE: JUST FILL AND ADD THIS
