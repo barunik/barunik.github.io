@@ -183,6 +183,6 @@ codes for introduced measures <a href="https://github.com/FiserPavel/waveletcoju
 <br/>
 
 
-Full list of publications [available here](http://ies.fsv.cuni.cz/sci/publication/user/id/215/lang/en){:target="blank"}
+Full list of publications [available here](https://utia.cas.cz/en/people/?pid=906){:target="blank"}
 
 <br/>

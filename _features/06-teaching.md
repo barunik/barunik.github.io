@@ -25,5 +25,3 @@ The course concentrates on the practical use of econometric methods, reviewing t
 ### JED412,413 - Advanced Financial Econometrics (PhD seminar)
 
 The aim of this seminar is an analysis of macroeconomic systems primarily by methods of nonlinear dynamics, stochastics dynamics, and nonlinear time series analysis. Special application will be focused on a behavior of the financial markets.
-
-[web page of the course](http://ies.fsv.cuni.cz/cs/syllab/JED412,413)

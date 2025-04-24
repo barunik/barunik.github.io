@@ -14,15 +14,15 @@ image: "assets/img/team.jpg"
 
 **Lukas Janasek**: Quantile Deep Reinforcement Learning in Economics
 
-**Josef Kurka**: Horizon-specific risks, higher moments, and asset prices
-
-**Martin Hronec**: Asset Pricing with Quantile Machine Learning
-
 **Lenka Nechvatalova**: Deep Reinforcement Learning and Portfolio Management
 
  <br/>
 
 ### Past Doctoral Students
+
+**Josef Kurka**: Horizon-specific risks, higher moments, and asset prices
+
+**Martin Hronec**: Asset Pricing with Quantile Machine Learning
 
 **Matej Nevrla**: Tail risks, asset prices, and investment horizons
 
