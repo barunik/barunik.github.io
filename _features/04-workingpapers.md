@@ -37,12 +37,12 @@ preprint draft (Sept 2023)<br/>
 <br/>
 
 
-[Currency Network Risk](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (May 2023)<br/>
+[Volatility Shocks and Currency Returns](https://ideas.repec.org/p/arx/papers/2101.09738.html){:target="blank"} (with M.Babiak)<br/>
+preprint draft (July 2025)<br/>
 
 **Presented at** at 2023 WFA (San Francisco), 2023 SGF Conference (Zurich), 2023 EEA-ESEM (Barcelona) <br/>
 
-**Abstract**: This paper identifies a new currency risk stemming from linkages between option-implied currency volatilities. A volatility network strategy that buys net recipients and sells net transmitters of transitory shocks to ex-ante currency volatilities generates significant excess returns. Net recipients are more exposed to volatility spillovers and compensate investors with higher average returns. In contrast, net transmitters are more resilient to volatility transmissions and offer a lower risk premium because they hedge against volatility interdependencies. When volatility linkages are controlled for contemporaneous correlations, the strategy is uncorrelated with popular benchmarks. The volatility network factor is also priced in a currency cross-section.<br/>
+**Abstract**: This paper examines how shocks to currency volatilities predict exchange rates. Theoretically, we develop a multi-country model where jumps in one country can influence others. We demonstrate that a currency’s expected excess return and volatility depend on the jump effects across all countries. Empirically, we document a negative cross-sectional association between the currency premia and transmitted volatility shocks to others, consistent with the theory. Buying the weakest and selling the strongest transmitters of strongly correlated volatility shocks resembles the carry trade. In contrast, a strategy based on volatility shocks that control for common correlation reflects a novel source of predictability.<br/>
 
 The video below illustrates the short-term currency network during the Global Financial Crisis. If the video does not play properly, feel free to watch it [here](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fbg6uk6prpodwnuj%2FCurrency%2520Network.mp4%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEc2H1o7Yen4A_u-iPJZ7qFZOy1PQ).
 

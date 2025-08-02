@@ -28,7 +28,7 @@ code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.j
 
 <br/>
 
-[Predicting the distributions of stock returns around the globe in the era of big data and learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2024)<br/>Revise and Resubmit, **International Journal of Forecasting**
+[Forecasting stock return distributions around the globe with quantile neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2025)<br/>2nd Revise and Resubmit, **International Journal of Forecasting**
 
 <br/>
 
