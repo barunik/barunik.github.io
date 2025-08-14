@@ -19,7 +19,7 @@ replication code and package in Julia (June 2025 - updated version available) <a
 
 <br/>
 
-[Common Idiosyncratic Quantile Risk](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Oct 2024)<br/> Reject & Resubmit, **Journal of Financial and Quantitative Analysis**<br/>
+[Beyond Volatility: Common Factors in Idiosyncratic Quantile Risks](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Aug 2025 - updated version available)<br/> Reject & Resubmit, **Journal of Financial and Quantitative Analysis**<br/>
 
 <br/>
 
@@ -37,5 +37,5 @@ code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.j
 <br/>
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021 - updated version soon online) <br/>Revise and Resubmit, **Journal of Empirical Finance**<br/>
+preprint draft (July 2021) <br/>Revise and Resubmit, **Journal of Empirical Finance**<br/>
 <br/>
