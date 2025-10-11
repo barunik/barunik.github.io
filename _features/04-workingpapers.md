@@ -14,14 +14,6 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Repo dealer-driven bond mispricing](https://www.bankofengland.co.uk/working-paper/2025/repo-dealer-driven-bond-mispricing){:target="blank"} (with C. Salazar, E. Gerba)<br/>
-Bank of England Staff Working Paper No. 1,145 (Oct 2025)<br/>
-
-**Abstract**: This paper uses proprietary data sets from the UK bond and repo markets to analyse the effect of funding market frictions on bond prices and market-wide liquidity. Starting with the structure of the repo market, we demonstrate how individual dealer market power and dealer linkages generate frictions. Specifically, we demonstrate that frictions related to market power account for between 0.5 and 1.3 percentage points of bond price deviations, whereas the transmission of heterogeneously persistent shocks between dealers accounts for between 2 and 4 percentage points of price deviations.
-
-<br/>
-
-
 [Quantile Preferences in Portfolio Choice: A Q-DRL 1 Approach to Dynamic Diversification](https://ideas.repec.org/p/fau/wpaper/wp2024_21.html){:target="blank"} (with A.Sarkany and L.Janasek) (May 2024)<br/>
 
 **Abstract**: We develop a novel approach to understand the dynamic diversification of decision makers with quantile preferences. Due to unavailability of analytical solutions to such complex problems, we suggest to approximate the behavior of agents with a Quantile Deep Reinforcement Learning (Q-DRL) algorithm. The research will provide a new level of understanding the behavior of economic agents with respect to preferences, captured by quantiles, without assuming a specific utility function or distribution of returns. Furthermore, we are challenging the traditional diversification methods as they proved to be insufficient due to heightened correlations and similar risk features between asset classes, and rather the research delves into risk factor investing as a solution and portfolio optimization based on them.
