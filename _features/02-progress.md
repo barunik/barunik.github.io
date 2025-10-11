@@ -23,11 +23,6 @@ replication code and package in Julia (June 2025 - updated version available) <a
 
 <br/>
 
-[Learning the Probability Distributions of Day-Ahead Electricity Prices](https://ideas.repec.org/p/arx/papers/2310.02867.html){:target="blank"} (with L.Hanus) preprint draft (July 2025 - updated version available)<br/>Revise and Resubmit, **Energy Economics**<br/>
-code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.jl" target="blank"><i class="fas fa-keyboard"></i></a>
-
-<br/>
-
 [Forecasting stock return distributions around the globe with quantile neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2025)<br/>2nd Revise and Resubmit, **International Journal of Forecasting**
 
 <br/>

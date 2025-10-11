@@ -15,6 +15,11 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
+[Learning the Probability Distributions of Day-Ahead Electricity Prices](https://ideas.repec.org/p/arx/papers/2310.02867.html){:target="blank"} (with L.Hanus) <br/>**Energy Economics** forthcoming<br/>
+replication code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.jl" target="blank"><i class="fas fa-keyboard"></i></a>
+
+<br/>
+
 [Predicting the volatility of major energy commodity prices: the dynamic persistence model](https://ideas.repec.org/p/arx/papers/2402.01354.html){:target="blank"} (with L.Vacha)<br/>**Energy Economics** (2024), Vol. 140, 107982<br/>
 replication code and package in Julia <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
