@@ -14,7 +14,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Commonalities in Firm-level Implied Volatilities](https://ideas.repec.org/p/arx/papers/2309.03968.html){:target="blank"} (with M.Bevilacqua and M.Ellington) preprint draft on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4565218) (Nov 2024)<br/> R&R, **Journal of Financial and Quantitative Analysis**<br/>
+[Commonalities in Firm-level Implied Volatilities](https://ideas.repec.org/p/arx/papers/2309.03968.html){:target="blank"} (with M.Babiak, M.Bevilacqua and M.Ellington) preprint draft on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4565218) (Nov 2024)<br/> R&R, **Journal of Financial and Quantitative Analysis**<br/>
 <br/>
 
 [Repo dealer-driven bond mispricing](https://www.bankofengland.co.uk/working-paper/2025/repo-dealer-driven-bond-mispricing){:target="blank"} (with C. Salazar, E. Gerba) **NEW PAPER!**<br/>
