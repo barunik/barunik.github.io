@@ -27,10 +27,10 @@ preprint draft (Oct 2024)<br/>
 
 <br/>
 
-[Common Firm-level Investor Fears: Evidence from Equity Options](https://ideas.repec.org/p/arx/papers/2309.03968.html){:target="blank"} (with M.Bevilacqua and M.Ellington)<br/>
-preprint draft (Sept 2023)<br/>
+[The Common Factor in Volatility Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618943){:target="blank"} (with M.Bevilacqua and M.Ellington)<br/>
+preprint draft (Feb 2024)<br/>
 
-**Abstract**: We identify a new type of risk, common firm-level investor fears, from commonalities within the cross-sectional distribution of individual stock options. We define firm-level fears that link with upward price movements as good fears, and those relating to downward price movements as bad fears.  Such information is different to market fears that we extract from index options. Stocks with high sensitivities to common firm-level investor fears earn lower returns, with investors demanding a higher compensation for exposure to common bad fears relative to common good fears. Risk premium estimates for common bad fears range from -5.63% to -4.92% per annum.
+**Abstract**: We show that firm-level volatility risk premium obeys a strong factor structure. Such factor structure is also present in a decomposition of firms’ volatility risk premium into good and bad counterparts, capturing compensation for realized volatility in positive and negative returns. Stocks with the weakest exposures to the common bad volatility risk premium factor earn average returns 7.32% higher than those with the strongest exposures. The common factor in total (bad) volatility risk premium predicts stock market returns at all horizons up to 24 months (from 6 months) both in-sample and out-of-sample. This predictive power is incremental to existing predictors.
 
 <br/>
 
