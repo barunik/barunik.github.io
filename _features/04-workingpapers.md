@@ -27,7 +27,7 @@ preprint draft (Oct 2024)<br/>
 
 <br/>
 
-[The Common Factor in Volatility Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618943){:target="blank"} (with M.Bevilacqua and M.Ellington)<br/>
+[The Common Factor in Volatility Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618943){:target="blank"} (with M.Babiak, M.Bevilacqua and M.Ellington)<br/>
 preprint draft (Feb 2024)<br/>
 
 **Abstract**: We show that firm-level volatility risk premium obeys a strong factor structure. Such factor structure is also present in a decomposition of firms’ volatility risk premium into good and bad counterparts, capturing compensation for realized volatility in positive and negative returns. Stocks with the weakest exposures to the common bad volatility risk premium factor earn average returns 7.32% higher than those with the strongest exposures. The common factor in total (bad) volatility risk premium predicts stock market returns at all horizons up to 24 months (from 6 months) both in-sample and out-of-sample. This predictive power is incremental to existing predictors.
