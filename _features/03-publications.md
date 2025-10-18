@@ -21,7 +21,7 @@ replication code and package in Julia (June 2025 - updated version available) <a
 
 <br/>
 
-[Learning the Probability Distributions of Day-Ahead Electricity Prices](https://ideas.repec.org/p/arx/papers/2310.02867.html){:target="blank"} (with L.Hanus) <br/>**Energy Economics** (2025) forthcoming<br/>
+[Learning the Probability Distributions of Day-Ahead Electricity Prices](https://ideas.repec.org/p/arx/papers/2310.02867.html){:target="blank"} (with L.Hanus) <br/>**Energy Economics** (2025) Vol. 152, 108988<br/>
 replication code and package in Julia <a href="https://github.com/luboshanus/DistrNNEnergy.jl" target="blank"><i class="fas fa-keyboard"></i></a>
 
 <br/>
