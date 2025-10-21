@@ -17,6 +17,8 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 [Tailoring Portfolio Choice via Quantile-Targeted Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636510){:target="blank"} (with L.Janasek, A.Sarkany) **NEW PAPER!**<br/>
 preprint (Oct 2025)<br/>
 
+**Abstract**: We study the dynamic investment decisions of investors who prioritise specific quantiles of outcomes over their expected values. Downside-focused agents targeting low quantiles reduce risk in states with high variance, while those with a preference for high quantiles concentrate in sleeves with high dispersion when there is potential for upside. These results provide a microfoundation for volatility management, demonstrating that reducing exposure in volatile states is an optimal response for risk-averse investors and rationalising inverse-variance heuristics. We propose a distributional actor-critic algorithm that learns time-consistent policies tailored to these specific risks, irrespective of the utility’s functional form. The quantile value can be mapped onto interpretable tilts, and the performance of empirically chosen portfolios aligns with investors' objectives.
+
 <br/>
 
 
