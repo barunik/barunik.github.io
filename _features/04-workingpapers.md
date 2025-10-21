@@ -14,11 +14,11 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Quantile Preferences in Portfolio Choice: A Q-DRL 1 Approach to Dynamic Diversification](https://ideas.repec.org/p/fau/wpaper/wp2024_21.html){:target="blank"} (with A.Sarkany and L.Janasek) (May 2024)<br/>
-
-**Abstract**: We develop a novel approach to understand the dynamic diversification of decision makers with quantile preferences. Due to unavailability of analytical solutions to such complex problems, we suggest to approximate the behavior of agents with a Quantile Deep Reinforcement Learning (Q-DRL) algorithm. The research will provide a new level of understanding the behavior of economic agents with respect to preferences, captured by quantiles, without assuming a specific utility function or distribution of returns. Furthermore, we are challenging the traditional diversification methods as they proved to be insufficient due to heightened correlations and similar risk features between asset classes, and rather the research delves into risk factor investing as a solution and portfolio optimization based on them.
+[Tailoring Portfolio Choice via Quantile-Targeted Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636510){:target="blank"} (with L.Janasek, A.Sarkany) **NEW PAPER!**<br/>
+preprint (Oct 2025)<br/>
 
 <br/>
+
 
 ["Who's the Boss?"" The Role of Shareholders in Banks' Lending Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972832){:target="blank"} (with P.Katsoulis, E.Gerba and J.A. Smith)<br/>
 preprint draft (Oct 2024)<br/>
