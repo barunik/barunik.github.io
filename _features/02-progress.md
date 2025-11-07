@@ -23,7 +23,7 @@ Bank of England Staff Working Paper No. 1,145 (Oct 2025)<br/>
 
 <br/>
 
-[Beyond Volatility: Common Factors in Idiosyncratic Quantile Risks](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Aug 2025 - updated version available)<br/> Reject & Resubmit, **Journal of Financial and Quantitative Analysis**<br/>
+[Beyond Volatility: Common Factors in Idiosyncratic Quantile Risks](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Aug 2025 - updated version available)<br/> 2nd R&R, **Journal of Financial and Quantitative Analysis**<br/>
 
 <br/>
 
