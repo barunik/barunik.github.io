@@ -27,10 +27,14 @@ Bank of England Staff Working Paper No. 1,145 (Oct 2025)<br/>
 
 <br/>
 
+[''Who's the boss?'' The role of dividend clienteles in banks' lending decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6229126){:target="blank"} (with P.Katsoulis, E. Gerba, and J.Smith) **NEW PAPER!**<br/> submitted (Feb 2026)<br/>
+
+<br/>
+
 [Forecasting stock return distributions around the globe with quantile neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2025)<br/>2nd R&R, **International Journal of Forecasting**<br/>
 
 <br/>
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021) <br/>R&R, **Journal of Empirical Finance**<br/>
+preprint draft (July 2021) <br/>forthcoming, **Journal of Empirical Finance**<br/>
 <br/>
