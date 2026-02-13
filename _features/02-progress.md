@@ -36,5 +36,5 @@ Bank of England Staff Working Paper No. 1,145 (Oct 2025)<br/>
 <br/>
 
 [Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/>
-preprint draft (July 2021) <br/>forthcoming, **Journal of Empirical Finance**<br/>
+preprint draft (Feb 2026 version available) <br/>forthcoming, **Journal of Empirical Finance**<br/>
 <br/>
