@@ -10,6 +10,8 @@ image: "assets/img/team.jpg"
 
 ### Current (Full-Time) Doctoral Students
 
+**Ying Ma**: Sentiment, Quantile Preferences and Heterogeneous Investor Behavior
+
 **Attila Sarkany**: Machine Learning in Finance
 
 **Lukas Janasek**: Quantile Deep Reinforcement Learning in Economics
