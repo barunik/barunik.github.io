@@ -15,10 +15,12 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-
 [The Dynamic Persistence of Economic Shocks](https://ideas.repec.org/p/arx/papers/2306.01511.html){:target="blank"} (with L.Vacha)<br/> forthcoming, **Review of Economics and Statistics** preprint draft (June 2025 - updated version available)<br/>
 replication code and package in Julia (June 2025 - updated version available) <a href="https://github.com/barunik/tvPersistence.jl" target="blank"><i class="fas fa-keyboard"></i></a><br/>
 
+<br/>
+
+[Deep Learning, Predictability, and Optimal Portfolio Returns](https://ideas.repec.org/p/arx/papers/2009.03394.html){:target="blank"} (with M.Babiak)<br/> **Journal of Empirical Finance** (2026) Vol 87, 101705<br/>
 <br/>
 
 [Learning the Probability Distributions of Day-Ahead Electricity Prices](https://ideas.repec.org/p/arx/papers/2310.02867.html){:target="blank"} (with L.Hanus) <br/>**Energy Economics** (2025) Vol. 152, 108988<br/>
@@ -33,7 +35,6 @@ replication code and package in Julia <a href="https://github.com/barunik/tvPers
 
 [Dynamic industry uncertainty networks and the business cycle](https://ideas.repec.org/p/arx/papers/2101.06957.html){:target="blank"} (with M.Bevilacqua and R.Faff)<br/>
 **Journal of Economic Dynamics & Control** (2024), Vol. 1598, 104793<br/>
-
 
 <br/>
 
