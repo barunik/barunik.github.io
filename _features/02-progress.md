@@ -31,7 +31,7 @@ Bank of England Staff Working Paper No. 1,145 (Oct 2025) [available here](https:
 
 <br/>
 
-[Forecasting stock return distributions around the globe with quantile neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2025)<br/>2nd R&R, **International Journal of Forecasting**<br/>
+[Forecasting stock return distributions around the globe with quantile neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2025)<br/>conditionally accpeted, **International Journal of Forecasting**<br/>
 
 <br/>
 
