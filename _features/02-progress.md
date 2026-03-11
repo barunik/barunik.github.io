@@ -19,7 +19,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 <br/>
 
 [When David becomes Goliath:Repo dealer-driven bond mispricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5640511){:target="blank"} (with C. Salazar, E. Gerba)<br/> submitted (Mar 2026 - updated version available) <br/>
-Bank of England Staff Working Paper No. 1,145 (Oct 2025) [available here]((https://www.bankofengland.co.uk/working-paper/2025/repo-dealer-driven-bond-mispricing){:target="blank"})<br/>
+Bank of England Staff Working Paper No. 1,145 (Oct 2025) [available here](https://www.bankofengland.co.uk/working-paper/2025/repo-dealer-driven-bond-mispricing){:target="blank"}<br/>
 
 <br/>
 
