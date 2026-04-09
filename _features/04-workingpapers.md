@@ -14,7 +14,7 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 
 <br/>
 
-[Tailoring Portfolio Choice via Quantile-Targeted Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636510){:target="blank"} (with L.Janasek, A.Sarkany) **NEW PAPER!**<br/>
+[Tailoring Portfolio Choice via Quantile-Targeted Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636510){:target="blank"} (with L.Janasek, A.Sarkany)
 preprint (Oct 2025)<br/>
 
 **Abstract**: We study the dynamic investment decisions of investors who prioritise specific quantiles of outcomes over their expected values. Downside-focused agents targeting low quantiles reduce risk in states with high variance, while those with a preference for high quantiles concentrate in sleeves with high dispersion when there is potential for upside. These results provide a microfoundation for volatility management, demonstrating that reducing exposure in volatile states is an optimal response for risk-averse investors and rationalising inverse-variance heuristics. We propose a distributional actor-critic algorithm that learns time-consistent policies tailored to these specific risks, irrespective of the utility’s functional form. The quantile value can be mapped onto interpretable tilts, and the performance of empirically chosen portfolios aligns with investors' objectives.
@@ -22,7 +22,7 @@ preprint (Oct 2025)<br/>
 <br/>
 
 [Skewness Dispersion and Stock Market Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6543219){:target="blank"} (with M.Babiak, and J.Kurka)<br/>
-preprint draft (Feb 2024)<br/>
+preprint draft (Apr 2026)<br/>
 
 **Abstract**: Cross-sectional dispersion in firm-level realized skewness is significantly and negatively related to future stock market returns. This predictive relation is robust in-sample and out-of-sample and is incremental to a broad set of existing predictors, with only a few alternatives retaining independent explanatory power. Skewness dispersion also delivers substantial economic gains in portfolio allocation. Its forecasting power is concentrated in months with monetary policy announcements, reflecting an information-based mechanism. The empirical evidence suggests that skewness dispersion captures the gradual incorporation of investor expectations into prices, driven by both variation in perceived aggregate risk and the adjustment of valuation discrepancies.
 
