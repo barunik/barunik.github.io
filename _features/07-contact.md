@@ -8,7 +8,7 @@ image: "assets/img/Prague_view.jpg"
 
 <br/>
 
-doc. PhDr. Jozef Baruník, Ph.D.<br/>
+prof. PhDr. Jozef Baruník, Ph.D.<br/>
 
 Associate Professor<br/>
 Department of Macroeconomics and Econometrics<br/>
