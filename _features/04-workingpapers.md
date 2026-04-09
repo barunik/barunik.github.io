@@ -21,6 +21,12 @@ preprint (Oct 2025)<br/>
 
 <br/>
 
+[Skewness Dispersion and Stock Market Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6543219){:target="blank"} (with M.Babiak, and J.Kurka)<br/>
+preprint draft (Feb 2024)<br/>
+
+**Abstract**: Cross-sectional dispersion in firm-level realized skewness is significantly and negatively related to future stock market returns. This predictive relation is robust in-sample and out-of-sample and is incremental to a broad set of existing predictors, with only a few alternatives retaining independent explanatory power. Skewness dispersion also delivers substantial economic gains in portfolio allocation. Its forecasting power is concentrated in months with monetary policy announcements, reflecting an information-based mechanism. The empirical evidence suggests that skewness dispersion captures the gradual incorporation of investor expectations into prices, driven by both variation in perceived aggregate risk and the adjustment of valuation discrepancies.
+
+<br/>
 
 [The Common Factor in Volatility Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618943){:target="blank"} (with M.Babiak, M.Ellington, and M.Bevilacqua)<br/>
 preprint draft (Feb 2024)<br/>
