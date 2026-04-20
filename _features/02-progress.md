@@ -23,7 +23,7 @@ Bank of England Staff Working Paper No. 1,145 (Oct 2025) [available here](https:
 
 <br/>
 
-[Common Idiosyncratic Quantile Factors and Asset Prices](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Mar 2026 - updated version available)<br/> 2nd R&R, **Journal of Financial and Quantitative Analysis**<br/>
+[Common Idiosyncratic Quantile Factors and Asset Prices](https://ideas.repec.org/p/arx/papers/2208.14267.html){:target="blank"} (with M.Nevrla) preprint draft (Mar 2026 - updated version available)<br/> conditionally accepted, **Journal of Financial and Quantitative Analysis**<br/>
 
 <br/>
 
@@ -31,7 +31,7 @@ Bank of England Staff Working Paper No. 1,145 (Oct 2025) [available here](https:
 
 <br/>
 
-[Forecasting stock return distributions around the globe with quantile neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2025)<br/>conditionally accpeted, **International Journal of Forecasting**<br/>
+[Forecasting stock return distributions around the globe with quantile neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925722){:target="blank"} (with M.Hronec and O.Tobek) (August 2025)<br/>conditionally accepted, **International Journal of Forecasting**<br/>
 
 <br/>
 
